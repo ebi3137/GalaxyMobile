@@ -1,0 +1,1634 @@
+{
+  "navMobile": [
+    {
+      "path": "/",
+      "label": "خانه",
+      "icon": "/icons/homeMobile.svg",
+      "activeIcon": "/icons/homeMobileActive.svg"
+    },
+    {
+      "path": "/categories",
+      "label": "دسته‌بندی",
+      "icon": "/icons/categoryMobile.svg",
+      "activeIcon": "/icons/categoryMobileActive.svg"
+    },
+    {
+      "path": "/checkout/cart",
+      "label": "سبد خرید",
+      "icon": "/icons/cartMobile.svg",
+      "activeIcon": "/icons/cartMobileActive.svg"
+    },
+    {
+      "path": "/profile",
+      "label": "گلکسی من",
+      "icon": "/icons/authMobile.svg",
+      "activeIcon": "/icons/authMobileActive.svg"
+    }
+  ],
+
+  "navDesktop": [
+    {
+      "path": "/promotion-center",
+      "label": "شگفت‌انگیزها",
+      "icon": "/icons/imazing.svg",
+      "data-id": "1"
+    },
+    {
+      "path": "/grocery",
+      "label": "سوپرمارکت",
+      "icon": "/icons/grocery.png",
+      "data-id": "2"
+    },
+    {
+      "path": "/gift-card",
+      "label": "کارت هدیه",
+      "icon": "/icons/giftCard.svg",
+      "data-id": "3"
+    },
+    {
+      "path": "/best-selling",
+      "label": "پرفروش‌ترین‌ها",
+      "icon": "/icons/bestSeller.svg",
+      "data-id": "4"
+    },
+    {
+      "path": "/incredible-offers",
+      "label": "تخفیف‌ها و پیشنهادها",
+      "icon": "/icons/off.svg",
+      "data-id": "5"
+    }
+  ],
+
+  "categoryNavRight": [
+    {
+      "path": "/category-mobile-phone",
+      "label": "موبایل",
+      "icon": "/icons/mobile.svg",
+      "mobileProductList": [
+        {
+          "path": "/category-mobile-phone/product-list",
+          "label": "همه محصولات موبایل",
+          "icon": "/icons/less-than-blue.svg",
+          "categoryMobilePhone": [
+            {
+              "path": "/mobile-brands",
+              "label": "برندهای مختلف گوشی های موبایل",
+              "icon": "/icons/less-than-black.svg",
+              "mobileBrands": [
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" }
+              ]
+            },
+            {
+              "path": "/mobile_prices",
+              "label": "گوشی براساس قیمت",
+              "icon": "/icons/less-than-black.svg",
+              "mobileBrands": [
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" }
+              ]
+            },
+            {
+              "path": "/category-mobile-accessories",
+              "label": "لوازم جانبی موبایل",
+              "icon": "/icons/less-than-black.svg",
+              "mobileBrands": [
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" }
+              ]
+            },
+            {
+              "path": "/mobile_features",
+              "label": "گوشی براساس عملکرد",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/mobile-brands",
+              "label": "برندهای برتر",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-tablet",
+              "label": "تبلت",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-wearable-gadget",
+              "label": "ساعت و مج بند هوشمند",
+              "icon": "/icons/less-than-black.svg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/book-and-media",
+      "label": "کتاب، لوازم تحریر و هنر",
+      "icon": "/icons/book-and-media.svg",
+      "mobileProductList": [
+        {
+          "path": "/category-mobile-phone/product-list",
+          "label": "همه محصولات کتاب، لوازم تحریر و هنر",
+          "icon": "/icons/less-than-blue.svg",
+          "categoryMobilePhone": [
+            {
+              "path": "/mobile-brands",
+              "label": "سشبتستب سق گوشی های سبتست",
+              "icon": "/icons/less-than-black.svg",
+              "mobileBrands": [
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" }
+              ]
+            },
+            {
+              "path": "/mobile_prices",
+              "label": "سب سیبس تاا",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-mobile-accessories",
+              "label": "خححخن جانبی موباغفقغیل",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/mobile_features",
+              "label": "گوشی براساس عملکرد",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/mobile-brands",
+              "label": "برندهای برتر",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-tablet",
+              "label": "تبلت",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-wearable-gadget",
+              "label": "ساعت و مج بند هوشمند",
+              "icon": "/icons/less-than-black.svg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/electronic-devices",
+      "label": "کالای دیجیتال",
+      "icon": "/icons/electronic-devices.svg",
+      "mobileProductList": [
+        {
+          "path": "/category-mobile-phone/product-list",
+          "label": "همه محصولات دیجیتال",
+          "icon": "/icons/less-than-blue.svg",
+          "categoryMobilePhone": [
+            {
+              "path": "/mobile-brands",
+              "label": "کحمم.ح مخت های سشب",
+              "icon": "/icons/less-than-black.svg",
+              "mobileBrands": [
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" }
+              ]
+            },
+            {
+              "path": "/mobile_prices",
+              "label": "صقصثق براساس زطر",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-mobile-accessories",
+              "label": "ربر جانبی غقث",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/mobile_features",
+              "label": "گوشی براساس عملکرد",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/mobile-brands",
+              "label": "برندهای برتر",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-tablet",
+              "label": "تبلت",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-wearable-gadget",
+              "label": "ساعت و مج بند هوشمند",
+              "icon": "/icons/less-than-black.svg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/home-and-kitchen",
+      "label": "خانه و آشپزخانه",
+      "icon": "/icons/home-and-kitchen.svg",
+      "mobileProductList": [
+        {
+          "path": "/category-mobile-phone/product-list",
+          "label": "همه محصولات آشپزخانه",
+          "icon": "/icons/less-than-blue.svg",
+          "categoryMobilePhone": [
+            {
+              "path": "/mobile-brands",
+              "label": "برندهای مختلف گوشی های موبایل",
+              "icon": "/icons/less-than-black.svg",
+              "mobileBrands": [
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" }
+              ]
+            },
+            {
+              "path": "/mobile_prices",
+              "label": "گوشی براساس قیمت",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-mobile-accessories",
+              "label": "لوازم جانبی موبایل",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/mobile_features",
+              "label": "گوشی براساس عملکرد",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/mobile-brands",
+              "label": "برندهای برتر",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-tablet",
+              "label": "تبلت",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-wearable-gadget",
+              "label": "ساعت و مج بند هوشمند",
+              "icon": "/icons/less-than-black.svg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/home-appliance",
+      "label": "لوازم خانگی برقی",
+      "icon": "/icons/home-appliance.svg",
+      "mobileProductList": [
+        {
+          "path": "/category-mobile-phone/product-list",
+          "label": "همه محصولات برقی",
+          "icon": "/icons/less-than-blue.svg",
+          "categoryMobilePhone": [
+            {
+              "path": "/mobile-brands",
+              "label": "برندهای مختلف گوشی های موبایل",
+              "icon": "/icons/less-than-black.svg",
+              "mobileBrands": [
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" }
+              ]
+            },
+            {
+              "path": "/mobile_prices",
+              "label": "گوشی براساس قیمت",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-mobile-accessories",
+              "label": "لوازم جانبی موبایل",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/mobile_features",
+              "label": "گوشی براساس عملکرد",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/mobile-brands",
+              "label": "برندهای برتر",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-tablet",
+              "label": "تبلت",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-wearable-gadget",
+              "label": "ساعت و مج بند هوشمند",
+              "icon": "/icons/less-than-black.svg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/apparel",
+      "label": "مد و لباس",
+      "icon": "/icons/apparel.svg",
+      "mobileProductList": [
+        {
+          "path": "/category-mobile-phone/product-list",
+          "label": "همه محصولات موبایل",
+          "icon": "/icons/less-than-blue.svg",
+          "categoryMobilePhone": [
+            {
+              "path": "/mobile-brands",
+              "label": "برندهای مختلف گوشی های موبایل",
+              "icon": "/icons/less-than-black.svg",
+              "mobileBrands": [
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" }
+              ]
+            },
+            {
+              "path": "/mobile_prices",
+              "label": "گوشی براساس قیمت",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-mobile-accessories",
+              "label": "لوازم جانبی موبایل",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/mobile_features",
+              "label": "گوشی براساس عملکرد",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/mobile-brands",
+              "label": "برندهای برتر",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-tablet",
+              "label": "تبلت",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-wearable-gadget",
+              "label": "ساعت و مج بند هوشمند",
+              "icon": "/icons/less-than-black.svg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/gold-jewelry",
+      "label": "ساعت، طلا و جواهرات",
+      "icon": "/icons/gold-jewelry.svg",
+      "mobileProductList": [
+        {
+          "path": "/category-mobile-phone/product-list",
+          "label": "همه محصولات موبایل",
+          "icon": "/icons/less-than-blue.svg",
+          "categoryMobilePhone": [
+            {
+              "path": "/mobile-brands",
+              "label": "برندهای مختلف گوشی های موبایل",
+              "icon": "/icons/less-than-black.svg",
+              "mobileBrands": [
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" }
+              ]
+            },
+            {
+              "path": "/mobile_prices",
+              "label": "گوشی براساس قیمت",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-mobile-accessories",
+              "label": "لوازم جانبی موبایل",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/mobile_features",
+              "label": "گوشی براساس عملکرد",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/mobile-brands",
+              "label": "برندهای برتر",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-tablet",
+              "label": "تبلت",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-wearable-gadget",
+              "label": "ساعت و مج بند هوشمند",
+              "icon": "/icons/less-than-black.svg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/personal-appliance",
+      "label": "آرایشی بهداشتی",
+      "icon": "/icons/personal-appliance.svg",
+      "mobileProductList": [
+        {
+          "path": "/category-mobile-phone/product-list",
+          "label": "همه محصولات موبایل",
+          "icon": "/icons/less-than-blue.svg",
+          "categoryMobilePhone": [
+            {
+              "path": "/mobile-brands",
+              "label": "برندهای مختلف گوشی های موبایل",
+              "icon": "/icons/less-than-black.svg",
+              "mobileBrands": [
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" }
+              ]
+            },
+            {
+              "path": "/mobile_prices",
+              "label": "گوشی براساس قیمت",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-mobile-accessories",
+              "label": "لوازم جانبی موبایل",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/mobile_features",
+              "label": "گوشی براساس عملکرد",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/mobile-brands",
+              "label": "برندهای برتر",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-tablet",
+              "label": "تبلت",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-wearable-gadget",
+              "label": "ساعت و مج بند هوشمند",
+              "icon": "/icons/less-than-black.svg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/health-care",
+      "label": "تجهیزات پزشکی و سلامت",
+      "icon": "/icons/health-care.svg",
+      "mobileProductList": [
+        {
+          "path": "/category-mobile-phone/product-list",
+          "label": "همه محصولات موبایل",
+          "icon": "/icons/less-than-blue.svg",
+          "categoryMobilePhone": [
+            {
+              "path": "/mobile-brands",
+              "label": "برندهای مختلف گوشی های موبایل",
+              "icon": "/icons/less-than-black.svg",
+              "mobileBrands": [
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" }
+              ]
+            },
+            {
+              "path": "/mobile_prices",
+              "label": "گوشی براساس قیمت",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-mobile-accessories",
+              "label": "لوازم جانبی موبایل",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/mobile_features",
+              "label": "گوشی براساس عملکرد",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/mobile-brands",
+              "label": "برندهای برتر",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-tablet",
+              "label": "تبلت",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-wearable-gadget",
+              "label": "ساعت و مج بند هوشمند",
+              "icon": "/icons/less-than-black.svg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/sport-entertainment",
+      "label": "ورزش و سفر",
+      "icon": "/icons/sport-entertainment.svg",
+      "mobileProductList": [
+        {
+          "path": "/category-mobile-phone/product-list",
+          "label": "همه محصولات موبایل",
+          "icon": "/icons/less-than-blue.svg",
+          "categoryMobilePhone": [
+            {
+              "path": "/mobile-brands",
+              "label": "برندهای مختلف گوشی های موبایل",
+              "icon": "/icons/less-than-black.svg",
+              "mobileBrands": [
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" }
+              ]
+            },
+            {
+              "path": "/mobile_prices",
+              "label": "گوشی براساس قیمت",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-mobile-accessories",
+              "label": "لوازم جانبی موبایل",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/mobile_features",
+              "label": "گوشی براساس عملکرد",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/mobile-brands",
+              "label": "برندهای برتر",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-tablet",
+              "label": "تبلت",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-wearable-gadget",
+              "label": "ساعت و مج بند هوشمند",
+              "icon": "/icons/less-than-black.svg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/gift-card",
+      "label": "کارت هدیه و گیفت کارت",
+      "icon": "/icons/gift-card.svg",
+      "mobileProductList": [
+        {
+          "path": "/category-mobile-phone/product-list",
+          "label": "همه محصولات موبایل",
+          "icon": "/icons/less-than-blue.svg",
+          "categoryMobilePhone": [
+            {
+              "path": "/mobile-brands",
+              "label": "برندهای مختلف گوشی های موبایل",
+              "icon": "/icons/less-than-black.svg",
+              "mobileBrands": [
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" }
+              ]
+            },
+            {
+              "path": "/mobile_prices",
+              "label": "گوشی براساس قیمت",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-mobile-accessories",
+              "label": "لوازم جانبی موبایل",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/mobile_features",
+              "label": "گوشی براساس عملکرد",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/mobile-brands",
+              "label": "برندهای برتر",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-tablet",
+              "label": "تبلت",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-wearable-gadget",
+              "label": "ساعت و مج بند هوشمند",
+              "icon": "/icons/less-than-black.svg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/grocery",
+      "label": "کالاهای سوپرمارکتی",
+      "icon": "/icons/grocery.svg",
+      "mobileProductList": [
+        {
+          "path": "/category-mobile-phone/product-list",
+          "label": "همه محصولات موبایل",
+          "icon": "/icons/less-than-blue.svg",
+          "categoryMobilePhone": [
+            {
+              "path": "/mobile-brands",
+              "label": "برندهای مختلف گوشی های موبایل",
+              "icon": "/icons/less-than-black.svg",
+              "mobileBrands": [
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" }
+              ]
+            },
+            {
+              "path": "/mobile_prices",
+              "label": "گوشی براساس قیمت",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-mobile-accessories",
+              "label": "لوازم جانبی موبایل",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/mobile_features",
+              "label": "گوشی براساس عملکرد",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/mobile-brands",
+              "label": "برندهای برتر",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-tablet",
+              "label": "تبلت",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-wearable-gadget",
+              "label": "ساعت و مج بند هوشمند",
+              "icon": "/icons/less-than-black.svg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/mother-and-child",
+      "label": "اسباب بازی، کودک و نوزاد",
+      "icon": "/icons/mother-and-child.svg",
+      "mobileProductList": [
+        {
+          "path": "/category-mobile-phone/product-list",
+          "label": "همه محصولات موبایل",
+          "icon": "/icons/less-than-blue.svg",
+          "categoryMobilePhone": [
+            {
+              "path": "/mobile-brands",
+              "label": "برندهای مختلف گوشی های موبایل",
+              "icon": "/icons/less-than-black.svg",
+              "mobileBrands": [
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" }
+              ]
+            },
+            {
+              "path": "/mobile_prices",
+              "label": "گوشی براساس قیمت",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-mobile-accessories",
+              "label": "لوازم جانبی موبایل",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/mobile_features",
+              "label": "گوشی براساس عملکرد",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/mobile-brands",
+              "label": "برندهای برتر",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-tablet",
+              "label": "تبلت",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-wearable-gadget",
+              "label": "ساعت و مج بند هوشمند",
+              "icon": "/icons/less-than-black.svg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/vehicles",
+      "label": "ابزارآلات و تجهیزات",
+      "icon": "/icons/vehicles.svg",
+      "mobileProductList": [
+        {
+          "path": "/category-mobile-phone/product-list",
+          "label": "همه محصولات موبایل",
+          "icon": "/icons/less-than-blue.svg",
+          "categoryMobilePhone": [
+            {
+              "path": "/mobile-brands",
+              "label": "برندهای مختلف گوشی های موبایل",
+              "icon": "/icons/less-than-black.svg",
+              "mobileBrands": [
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" }
+              ]
+            },
+            {
+              "path": "/mobile_prices",
+              "label": "گوشی براساس قیمت",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-mobile-accessories",
+              "label": "لوازم جانبی موبایل",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/mobile_features",
+              "label": "گوشی براساس عملکرد",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/mobile-brands",
+              "label": "برندهای برتر",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-tablet",
+              "label": "تبلت",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-wearable-gadget",
+              "label": "ساعت و مج بند هوشمند",
+              "icon": "/icons/less-than-black.svg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/vehicles-spare-parts",
+      "label": "خودرو و موتورسیکلت",
+      "icon": "/icons/vehicles-spare-parts.svg",
+      "mobileProductList": [
+        {
+          "path": "/category-mobile-phone/product-list",
+          "label": "همه محصولات موبایل",
+          "icon": "/icons/less-than-blue.svg",
+          "categoryMobilePhone": [
+            {
+              "path": "/mobile-brands",
+              "label": "برندهای مختلف گوشی های موبایل",
+              "icon": "/icons/less-than-black.svg",
+              "mobileBrands": [
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" }
+              ]
+            },
+            {
+              "path": "/mobile_prices",
+              "label": "گوشی براساس قیمت",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-mobile-accessories",
+              "label": "لوازم جانبی موبایل",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/mobile_features",
+              "label": "گوشی براساس عملکرد",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/mobile-brands",
+              "label": "برندهای برتر",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-tablet",
+              "label": "تبلت",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-wearable-gadget",
+              "label": "ساعت و مج بند هوشمند",
+              "icon": "/icons/less-than-black.svg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/rural-products",
+      "label": "محصولات بومی و محلی",
+      "icon": "/icons/rural-products.svg",
+      "mobileProductList": [
+        {
+          "path": "/category-mobile-phone/product-list",
+          "label": "همه محصولات موبایل",
+          "icon": "/icons/less-than-blue.svg",
+          "categoryMobilePhone": [
+            {
+              "path": "/mobile-brands",
+              "label": "برندهای مختلف گوشی های موبایل",
+              "icon": "/icons/less-than-black.svg",
+              "mobileBrands": [
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "اپل" },
+                { "path": "/mobile", "label": "سامسونگ" },
+                { "path": "/mobile", "label": "ایفون" },
+                { "path": "/mobile", "label": "شیاومی" },
+                { "path": "/mobile", "label": "ال جی" },
+                { "path": "/mobile", "label": "اپل" }
+              ]
+            },
+            {
+              "path": "/mobile_prices",
+              "label": "گوشی براساس قیمت",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-mobile-accessories",
+              "label": "لوازم جانبی موبایل",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/mobile_features",
+              "label": "گوشی براساس عملکرد",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/mobile-brands",
+              "label": "برندهای برتر",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-tablet",
+              "label": "تبلت",
+              "icon": "/icons/less-than-black.svg"
+            },
+            {
+              "path": "/category-wearable-gadget",
+              "label": "ساعت و مج بند هوشمند",
+              "icon": "/icons/less-than-black.svg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "col1": [
+    {
+      "image": "/images/col1/1.jpg",
+      "path": "/",
+      "label": "اقتصادی و معتبر💲✅"
+    },
+    {
+      "image": "/images/col1/2.jpg",
+      "path": "/",
+      "label": "مکمل رویال ژلی یوروویتال "
+    },
+    {
+      "image": "/images/col1/3.jpg",
+      "path": "/",
+      "label": "یه ساعت چی میخوای دقیقا؟"
+    },
+    {
+      "image": "/images/col1/4.jpg",
+      "path": "/",
+      "label": "هزینه ی کم،کیفیت خوب"
+    },
+    {
+      "image": "/images/col1/5.jpg",
+      "path": "/",
+      "label": "تعداد بالاش اقتصادی تره"
+    },
+    { "image": "/images/col1/6.jpg", "path": "/", "label": "تقلب کن و ببر" },
+    {
+      "image": "/images/col1/7.jpg",
+      "path": "/",
+      "label": "ترازوی قهوه های دمی"
+    },
+    {
+      "image": "/images/col1/8.jpg",
+      "path": "/",
+      "label": "ابزار چند‌کاره ارزان بخریم؟"
+    },
+    {
+      "image": "/images/col1/9.jpg",
+      "path": "/",
+      "label": "دوربین ورزشی 4K پرودو"
+    },
+    {
+      "image": "/images/col1/10.jpg",
+      "path": "/",
+      "label": "این انبر ظروف لازمت میشه"
+    },
+    {
+      "image": "/images/col1/11.jpg",
+      "path": "/",
+      "label": "نقاشی با آهنربا 🧲"
+    },
+    {
+      "image": "/images/col1/12.jpg",
+      "path": "/",
+      "label": "این اسپیکر رو اپل طراحی کرده؟!"
+    },
+    {
+      "image": "/images/col1/13.jpg",
+      "path": "/",
+      "label": "والف‌که بود‌ و چه‌کرد؟"
+    },
+    { "image": "/images/col1/14.jpg", "path": "/", "label": "چقدر نازههه🥹😍" },
+    {
+      "image": "/images/col1/15.jpg",
+      "path": "/",
+      "label": "اسپری نانو جرم گیر و صفرشویی خودرو روشاکو"
+    },
+    {
+      "image": "/images/col1/16.jpg",
+      "path": "/",
+      "label": "اینم توپ هندبالی که میخواستین ..."
+    },
+    {
+      "image": "/images/col1/17.jpg",
+      "path": "/",
+      "label": "اسپیکر هایی ارزنده"
+    },
+    {
+      "image": "/images/col1/18.jpg",
+      "path": "/",
+      "label": "مثل کازاموراتی قویه 🔥🔥🏵️"
+    },
+    { "image": "/images/col1/19.jpg", "path": "/", "label": "اتومایزر عطر!" },
+    {
+      "image": "/images/col1/20.jpg",
+      "path": "/",
+      "label": "کنترل مالی زندگی خود را به‌دست بگیرید"
+    },
+    { "image": "/images/col1/21.jpg", "path": "/", "label": "غذا بچه گربه" },
+    { "image": "/images/col1/22.jpg", "path": "/", "label": "ساعت اسپرت" },
+    {
+      "image": "/images/col1/23.jpg",
+      "path": "/",
+      "label": "بررسی تخته وایت برد مغناطیسی بتا"
+    }
+  ],
+
+  "col2": [
+    { "path": "/", "image": "/images/col2/1.gif", "label": "ایطوری" },
+    {
+      "path": "/",
+      "image": "/images/col2/2.gif",
+      "label": "اگه برنامه سرگرمیه"
+    },
+    {
+      "path": "/",
+      "image": "/images/col2/3.webp",
+      "label": "اگه برنامه خرید لباسه"
+    },
+    { "path": "/", "image": "/images/col2/4.webp", "label": "پارتنرشیپ-یوزد" },
+    {
+      "path": "/",
+      "image": "/images/col2/5.webp",
+      "label": "اگه برنامه دورهمیه"
+    },
+    {
+      "path": "/",
+      "image": "/images/col2/6.webp",
+      "label": "پارتنرشیپ-کینوفیت"
+    },
+    { "path": "/", "image": "/images/col2/7.webp", "label": "چطوری" },
+    { "path": "/", "image": "/images/col2/8.webp", "label": "بکو بینم" },
+    { "path": "/", "image": "/images/col2/9.webp", "label": "اون کیه هان!" },
+    { "path": "/", "image": "/images/col2/10.webp", "label": "اون کیه هان!" }
+  ],
+
+  "col3": [
+    {
+      "image": "/images/col3/galaxy-jet.png",
+      "path": "/",
+      "label": "گلکسی جت"
+    },
+    {
+      "image": "/images/col3/galaxy-pay.png",
+      "path": "/",
+      "label": "گلکسی پی"
+    },
+    {
+      "image": "/images/col3/galaxy-plus.png",
+      "path": "/",
+      "label": "گلکسی پلاس"
+    },
+    {
+      "image": "/images/col3/store.png",
+      "path": "/",
+      "label": "فروشگاه حضوری"
+    },
+    {
+      "image": "/images/col3/winner-game.png",
+      "path": "/",
+      "label": "بازی برنده ها"
+    },
+    {
+      "image": "/images/col3/summer-offer.png",
+      "path": "/",
+      "label": "پیشنهاد تابستونی "
+    },
+    {
+      "image": "/images/col3/plan-going.png",
+      "path": "/",
+      "label": "برنامه به راهه"
+    },
+    {
+      "image": "/images/col3/haraj.png",
+      "path": "/",
+      "label": "حراج گلکسی استایل"
+    },
+    {
+      "image": "/images/col3/grocery.png",
+      "path": "/",
+      "label": "سوپرمارکت پرتخفیف"
+    },
+    {
+      "image": "/images/col3/phone.png",
+      "path": "/",
+      "label": "موبایل کارکرده"
+    }
+  ],
+
+  "col4": [
+    {
+      "image": "/images/col4/1.webp",
+      "path": "/",
+      "label": "لپ تاپ 15.6 اینچی لنوو مدل ThinkBook 15 G2 ITL-i5 1135G7 ۱۰GB 1HDD 256SSD MX450 - کاستوم شده",
+      "price": "۲۸,۹۸۹,۰۰۰",
+      "oldPrice": "۲۹,۹۸۹,۰۰۰",
+      "off": "۱۰"
+    },
+    {
+      "image": "/images/col4/2.webp",
+      "path": "/",
+      "label": "لپ تاپ 15.6 اینچی لنوو مدل ThinkBook 15 G2 ITL-i5 1135G7 ۱۰GB 1HDD 256SSD MX450 - کاستوم شده",
+      "price": "۲۸,۹۸۹,۰۰۰",
+      "oldPrice": "۲۹,۹۸۹,۰۰۰",
+      "off": "۱۰"
+    },
+    {
+      "image": "/images/col4/3.webp",
+      "path": "/",
+      "label": "لپ تاپ 15.6 اینچی لنوو مدل ThinkBook 15 G2 ITL-i5 1135G7 ۱۰GB 1HDD 256SSD MX450 - کاستوم شده",
+      "price": "۲۸,۹۸۹,۰۰۰",
+      "oldPrice": "۲۹,۹۸۹,۰۰۰",
+      "off": "۱۰"
+    },
+    {
+      "image": "/images/col4/4.webp",
+      "path": "/",
+      "label": "لپ تاپ 15.6 اینچی لنوو مدل ThinkBook 15 G2 ITL-i5 1135G7 ۱۰GB 1HDD 256SSD MX450 - کاستوم شده",
+      "price": "۲۸,۹۸۹,۰۰۰",
+      "oldPrice": "۲۹,۹۸۹,۰۰۰",
+      "off": "۱۰"
+    },
+    {
+      "image": "/images/col4/5.webp",
+      "path": "/",
+      "label": "لپ تاپ 15.6 اینچی لنوو مدل ThinkBook 15 G2 ITL-i5 1135G7 ۱۰GB 1HDD 256SSD MX450 - کاستوم شده",
+      "price": "۲۸,۹۸۹,۰۰۰",
+      "oldPrice": "۲۹,۹۸۹,۰۰۰",
+      "off": "۱۰"
+    },
+    {
+      "image": "/images/col4/6.webp",
+      "path": "/",
+      "label": "لپ تاپ 15.6 اینچی لنوو مدل ThinkBook 15 G2 ITL-i5 1135G7 ۱۰GB 1HDD 256SSD MX450 - کاستوم شده",
+      "price": "۲۸,۹۸۹,۰۰۰",
+      "oldPrice": "۲۹,۹۸۹,۰۰۰",
+      "off": "۱۰"
+    },
+    {
+      "image": "/images/col4/7.webp",
+      "path": "/",
+      "label": "لپ تاپ 15.6 اینچی لنوو مدل ThinkBook 15 G2 ITL-i5 1135G7 ۱۰GB 1HDD 256SSD MX450 - کاستوم شده",
+      "price": "۲۸,۹۸۹,۰۰۰",
+      "oldPrice": "۲۹,۹۸۹,۰۰۰",
+      "off": "۱۰"
+    },
+    {
+      "image": "/images/col4/8.webp",
+      "path": "/",
+      "label": "لپ تاپ 15.6 اینچی لنوو مدل ThinkBook 15 G2 ITL-i5 1135G7 ۱۰GB 1HDD 256SSD MX450 - کاستوم شده",
+      "price": "۲۸,۹۸۹,۰۰۰",
+      "oldPrice": "۲۹,۹۸۹,۰۰۰",
+      "off": "۱۰"
+    },
+    {
+      "image": "/images/col4/9.webp",
+      "path": "/",
+      "label": "لپ تاپ 15.6 اینچی لنوو مدل ThinkBook 15 G2 ITL-i5 1135G7 ۱۰GB 1HDD 256SSD MX450 - کاستوم شده",
+      "price": "۲۸,۹۸۹,۰۰۰",
+      "oldPrice": "۲۹,۹۸۹,۰۰۰",
+      "off": "۱۰"
+    },
+    {
+      "image": "/images/col4/10.webp",
+      "path": "/",
+      "label": "لپ تاپ 15.6 اینچی لنوو مدل ThinkBook 15 G2 ITL-i5 1135G7 ۱۰GB 1HDD 256SSD MX450 - کاستوم شده",
+      "price": "۲۸,۹۸۹,۰۰۰",
+      "oldPrice": "۲۹,۹۸۹,۰۰۰",
+      "off": "۱۰"
+    },
+    {
+      "image": "/images/col4/11.webp",
+      "path": "/",
+      "label": "لپ تاپ 15.6 اینچی لنوو مدل ThinkBook 15 G2 ITL-i5 1135G7 ۱۰GB 1HDD 256SSD MX450 - کاستوم شده",
+      "price": "۲۸,۹۸۹,۰۰۰",
+      "oldPrice": "۲۹,۹۸۹,۰۰۰",
+      "off": "۱۰"
+    },
+    {
+      "image": "/images/col4/12.webp",
+      "path": "/",
+      "label": "لپ تاپ 15.6 اینچی لنوو مدل ThinkBook 15 G2 ITL-i5 1135G7 ۱۰GB 1HDD 256SSD MX450 - کاستوم شده",
+      "price": "۲۸,۹۸۹,۰۰۰",
+      "oldPrice": "۲۹,۹۸۹,۰۰۰",
+      "off": "۱۰"
+    }
+  ],
+
+  "col5": [
+    { "path": "/", "image": "/images/col5/1.png", "label": "آرایشی بهداشتی" },
+    { "path": "/", "image": "/images/col5/2.png", "label": "طلا و نقره" },
+    { "path": "/", "image": "/images/col5/3.png", "label": "مد و پوشاک" },
+    { "path": "/", "image": "/images/col5/4.png", "label": "لوازم خانگی برقی" },
+    { "path": "/", "image": "/images/col5/5.png", "label": "خانه و آشپزخانه" },
+    {
+      "path": "/",
+      "image": "/images/col5/6.png",
+      "label": "کتاب، لوازم تحریر و هنر"
+    },
+    { "path": "/", "image": "/images/col5/7.png", "label": "کالای دیجیتال" },
+    { "path": "/", "image": "/images/col5/8.png", "label": "موبایل" },
+    {
+      "path": "/",
+      "image": "/images/col5/9.png",
+      "label": "محصولات بومی و محلی"
+    },
+    {
+      "path": "/",
+      "image": "/images/col5/10.png",
+      "label": "اسباب بازی، کودک و نوزاد"
+    },
+    {
+      "path": "/",
+      "image": "/images/col5/11.png",
+      "label": "کالای خوراکی و اساسی"
+    },
+    {
+      "path": "/",
+      "image": "/images/col5/12.png",
+      "label": "کارت هدیه و گیفت کارت"
+    },
+    { "path": "/", "image": "/images/col5/13.png", "label": "ورزش و سفر" },
+    {
+      "path": "/",
+      "image": "/images/col5/14.png",
+      "label": "تجهیزات پزشکی و سلامت"
+    },
+    {
+      "path": "/",
+      "image": "/images/col5/15.png",
+      "label": "ابزار آلات و تجهیزات"
+    },
+    {
+      "path": "/",
+      "image": "/images/col5/16.png",
+      "label": "خودرو و موتورسیکلت"
+    }
+  ],
+
+  "col6": {
+    "col1": [
+      { "path": "/", "image": "/images/col6/col1/1.jpg", "label": "گوشی موبایل موتورولا مدل Edge 50 Pro دو سیم کارت ظرفیت 512 گیگابایت و رم 12 گیگابایت - به همراه کارت هدیه" },
+      { "path": "/", "image": "/images/col6/col1/2.jpg", "label": "گوشی موبایل موتورولا مدل Edge 50 Pro دو سیم کارت ظرفیت 512 گیگابایت و رم 12 گیگابایت" },
+      { "path": "/", "image": "/images/col6/col1/3.jpg", "label": "eljfasl" },
+      { "path": "/", "image": "/images/col6/col1/4.jpg", "label": "dsgf" }
+    ],
+    "col2": [
+      { "path": "/", "image": "/images/col6/col2/1.jpg", "label": "مو4tetبایل" },
+      { "path": "/", "image": "/images/col6/col2/2.jpg", "label": "et4" },
+      { "path": "/", "image": "/images/col6/col2/3.jpg", "label": "ergt" },
+      { "path": "/", "image": "/images/col6/col2/4.jpg", "label": "rg" }
+    ],
+    "col3": [
+      { "path": "/", "image": "/images/col6/col3/1.jpg", "label": "yi" },
+      { "path": "/", "image": "/images/col6/col3/2.jpg", "label": "we" },
+      { "path": "/", "image": "/images/col6/col3/3.jpg", "label": "hulol" },
+      { "path": "/", "image": "/images/col6/col3/4.jpg", "label": "fdbfg" }
+    ],
+    "col4": [
+      { "path": "/", "image": "/images/col6/col4/1.jpg", "label": "dfwew3er" },
+      { "path": "/", "image": "/images/col6/col4/2.jpg", "label": "wrtrw" },
+      { "path": "/", "image": "/images/col6/col4/3.jpg", "label": "drrer" },
+      { "path": "/", "image": "/images/col6/col4/4.jpg", "label": "dfght" }
+    ]
+  },
+
+  "col7": [
+    { "path": "/", "image": "/images/col7/1.webp", "label": "پارتنرشیپ-گلرنگ" },
+    { "path": "/", "image": "/images/col7/2.webp", "label": "پارتنرشیپ-گلدیس"},
+    { "path": "/", "image": "/images/col7/3.webp", "label": "طلا"},
+    { "path": "/", "image": "/images/col7/4.webp", "label": "خودرو و موتورسیکلت"}
+  ],
+
+  "col8": {
+    "col1": [
+      { "path": "/", "image": "/images/col8/col1/1.jpg", "label": "گوشی موبایل موتورولا مدل Edge 50 Pro دو سیم کارت ظرفیت 512 گیگابایت و رم 12 گیگابایت - به همراه کارت هدیه" },
+      { "path": "/", "image": "/images/col8/col1/2.jpg", "label": "گوشی موبایل موتورولا مدل Edge 50 Pro دو سیم کارت ظرفیت 512 گیگابایت و رم 12 گیگابایت" },
+      { "path": "/", "image": "/images/col8/col1/3.jpg", "label": "eljfasl" },
+      { "path": "/", "image": "/images/col8/col1/4.jpg", "label": "dsgf" }
+    ],
+    "col2": [
+      { "path": "/", "image": "/images/col8/col2/1.jpg", "label": "مو4tetبایل" },
+      { "path": "/", "image": "/images/col8/col2/2.jpg", "label": "et4" },
+      { "path": "/", "image": "/images/col8/col2/3.jpg", "label": "ergt" },
+      { "path": "/", "image": "/images/col8/col2/4.jpg", "label": "rg" }
+    ],
+    "col3": [
+      { "path": "/", "image": "/images/col8/col3/1.jpg", "label": "yi" },
+      { "path": "/", "image": "/images/col8/col3/2.jpg", "label": "we" },
+      { "path": "/", "image": "/images/col8/col3/3.jpg", "label": "hulol" },
+      { "path": "/", "image": "/images/col8/col3/4.jpg", "label": "fdbfg" }
+    ],
+    "col4": [
+      { "path": "/", "image": "/images/col8/col4/1.jpg", "label": "dfwew3er" },
+      { "path": "/", "image": "/images/col8/col4/2.jpg", "label": "wrtrw" },
+      { "path": "/", "image": "/images/col8/col4/3.jpg", "label": "drrer" },
+      { "path": "/", "image": "/images/col8/col4/4.jpg", "label": "dfght" }
+    ]
+  },
+
+  "col9": [
+    { "path": "/", "image": "/images/col9/1.webp", "label": "پارتنرشیپ-گلرنگ" },
+    { "path": "/", "image": "/images/col9/2.webp", "label": "پارتنرشیپ-گلدیس"}
+  ],
+
+  "col10": [
+    { "path": "/", "image": "/images/col10/1.webp", "count": "۱", "label": "گوشی موبایل شیائومی مدل 14 Ultra 5G دو سیم کارت ظرفیت 512 گیگابایت و رم 16 گیگابایت - پک گلوبال " },
+    { "path": "/", "image": "/images/col10/2.webp", "count": "۲", "label": "ست برس آرایشی کد 08 بسته 10 عددی"},
+    { "path": "/", "image": "/images/col10/3.webp", "count": "۳", "label": "دفتر مشق 100 برگ تیما مدل سوارکار مجموعه 6 عددی"},
+    { "path": "/", "image": "/images/col10/4.webp", "count": "۴", "label": "هدفون بلوتوثی کیو سی وای مدل Ailybuds Lite"},
+    { "path": "/", "image": "/images/col10/5.webp", "count": "۵", "label": "لامپ ال ای دی 20 وات لیتو مدل شارژی"},
+    { "path": "/", "image": "/images/col10/6.webp", "count": "۶", "label": "لاستیک خودرو کویر تایر مدل DOMINANT KB900 سایز 265/65/17 - تک حلقه "},
+    { "path": "/", "image": "/images/col10/7.webp", "count": "۷", "label": "کوله پشتی مدل EPS-4832 همراه با جامدادی"},
+    { "path": "/", "image": "/images/col10/8.webp", "count": "۸", "label": "فلش مموری کوئین تک مدل KNOB ROSE ظرفیت 64 گیگابایت"},
+    { "path": "/", "image": "/images/col10/9.webp", "count": "۹", "label": "اسباب بازی موس مدل مجیک میکسیز دیگ جادویی"},
+    { "path": "/", "image": "/images/col10/10.webp", "count": "۱۰", "label": "مایع دستشویی لوفانته مدل GINGER GARDEN حجم 3750 میلی لیتر"},
+    { "path": "/", "image": "/images/col10/11.webp", "count": "۱۱", "label": "خنک کننده پردازنده کولر مستر مدل T620s ARGB LGA1700"},
+    { "path": "/", "image": "/images/col10/12.webp", "count": "۱۲", "label": "قرص سیستین پلاس یوروویتال بسته 60 عددی"},
+    { "path": "/", "image": "/images/col10/13.webp", "count": "۱۳", "label": "ست تی شرت و شلوارک بچگانه سپیدپوش کد 1403101"},
+    { "path": "/", "image": "/images/col10/14.webp", "count": "۱۴", "label": "کفش تمرین سارزی مدل A.s.c.s_T.o.s-A.b_PaBpa"},
+    { "path": "/", "image": "/images/col10/15.webp", "count": "۱۵", "label": "زیر انداز سفری 4 نفره توریث مدل VS-800"},
+    { "path": "/", "image": "/images/col10/16.webp", "count": "۱۶", "label": "دستبند طلا 18 عیار زنانه مایا ماهک مدل MB1258 طرح استار"},
+    { "path": "/", "image": "/images/col10/17.webp", "count": "۱۷", "label": "هندزفری بلوتوثی پرووان مدل PHB3208"},
+    { "path": "/", "image": "/images/col10/18.webp", "count": "۱۸", "label": "شورت مردانه مدل 664-668 مجموعه 2 عددی"}
+  ],
+
+  "col11": [
+    { "path": "/", "image": "/images/col11/3.webp", "off": "۳۵٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "},
+    { "path": "/", "image": "/images/col11/4.webp", "off": "۴۰٪", "label": "سوسيس کوکتل پنير 60 درصد گوشت قرمز مهيا پروتئين - 1 کيلوگرم" },
+    { "path": "/", "image": "/images/col11/5.webp", "off": "۵۰٪", "label": "پنیر خامه ای می ماس - 250 گرم" },
+    { "path": "/", "image": "/images/col11/6.webp", "off": "۴۵٪", "label": "ماست موسیر پر چرب یونانی می ماس مقدار 500 گرم" },
+    { "path": "/", "image": "/images/col11/7.webp", "off": "۳۵٪", "label": "کوکتل ممتاز 70 درصد گوشت قرمز هایزم بسته 8 عددی" },
+    { "path": "/", "image": "/images/col11/8.webp", "off": "۴۰٪", "label": "گرانولا بری نیچربایت - 380 گرم" }
+  ]
+}

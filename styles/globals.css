@@ -1,0 +1,120 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body, html {
+  direction: rtl;
+  height: 100%;
+  width: 100%;
+  font-family: 'IRANSans', sans-serif;
+  
+}
+
+.nav-item {
+  position: relative;
+}
+
+.digiTransition {
+  transition: all .2s ease
+}
+
+
+.filter-red:hover {
+  filter: invert(31%) sepia(62%) saturate(4196%) hue-rotate(336deg) brightness(99%) contrast(89%);
+}
+.filter-neutral-500 {
+  filter: brightness(0) saturate(100%) invert(45%) sepia(0%) saturate(39%) hue-rotate(67deg) brightness(99%) contrast(93%)
+}
+.filter-neutral-950 {
+  filter: brightness(0) saturate(100%) invert(0%) sepia(98%) saturate(2598%) hue-rotate(203deg) brightness(94%) contrast(92%)
+}
+.filter-neutral-950-hover:hover {
+  filter: brightness(0) saturate(100%) invert(0%) sepia(98%) saturate(2598%) hue-rotate(203deg) brightness(94%) contrast(92%)
+}
+.filter-blue-400 {
+  filter: brightness(0) saturate(100%) invert(57%) sepia(33%) saturate(807%) hue-rotate(175deg) brightness(101%) contrast(96%)
+}
+.filter-orange-400 {
+  filter: brightness(0) saturate(100%) invert(61%) sepia(33%) saturate(896%) hue-rotate(343deg) brightness(98%) contrast(102%)
+}
+
+.filter-green-700 {
+  filter: brightness(0) saturate(100%) invert(34%) sepia(64%) saturate(546%) hue-rotate(90deg) brightness(99%) contrast(95%)
+}
+
+
+
+
+/* Ensuring the scrollbar appears on the right in RTL */
+/* .scrollbar-container {
+  scrollbar-width: thin;
+  scrollbar-color: rgb(163 163 163) rgb(229 229 229);
+} */
+
+
+.scrollbar-container {
+  direction: ltr; /* Force LTR direction for the scrollbar */
+}
+.scrollbar-container > * {
+  direction: rtl; /* Reset to RTL for children */
+}
+.scrollbar-container::-webkit-scrollbar {
+  background-color: #f5f5f5;
+  width: 12px;
+}
+.scrollbar-container::-webkit-scrollbar-thumb{
+  background-color: #d4d4d4;
+  border-radius: 2px;
+  height: 5px;
+  max-height: 5px;
+}
+
+.example::-webkit-scrollbar {
+  display: none;
+}
+
+*::-webkit-scrollbar {
+  background-color: #f5f5f5;
+  width: 8px;
+}
+
+*::-webkit-scrollbar-thumb{
+background-color: #d4d4d4;
+border-radius: 2px;
+height: 5px;
+min-height: 5px;
+}
+
+
+
+
+.submenu-responsive {
+  max-height: calc(100vh - 200px); /* Adjust the value 50px to your desired bottom distance */
+  max-width: calc(100vw - 80px); /* Adjust the value 50px to your desired bottom distance */
+}
+
+
+
+#h_bottom {
+  transition: height 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+
+
+
+/* Hide scrollbar for Chrome, Safari, and Opera */
+.scroll-hidden::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge, and Firefox */
+.scroll-hidden {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+.scroll-container5 {
+  transition: scroll-left 10.9s ease;
+}
