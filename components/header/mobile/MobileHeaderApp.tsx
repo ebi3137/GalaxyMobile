@@ -15,7 +15,7 @@ const MobileHeaderApp: React.FC = () => {
         <div className="flex items-center gap-2">
           <Image
             className="object-contain"
-            src="/Logo-shape-blue.png"
+            src="/logo-shape-blue.png"
             width={32}
             height={32}
             alt="Galaxy Icon"
