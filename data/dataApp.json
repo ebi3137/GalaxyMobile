@@ -1674,6 +1674,38 @@
     { "path": "/", "image": "/images/col13/19.png", "label": "stdrty" },
     { "path": "/", "image": "/images/col13/20.jpg", "label": "se-گلرنگ" },
     { "path": "/", "image": "/images/col13/22.png", "label": "khghiu-گلرنگ" }
+  ],
+
+  "col14": [
+    { "path": "/", "image": "/images/col14/1.gif", "label": "پارتنرشیپ-گلرنگ" },
+    { "path": "/", "image": "/images/col14/2.webp", "label": "پارتنرشیپ-گلدیس"}
+  ],
+
+  "col15": [
+    { "path": "/", "image": "/images/col15/1.webp", "count": "۱", "label": "گوشی موبایل شیائومی مدل 14 Ultra 5G دو سیم کارت ظرفیت 512 گیگابایت و رم 16 گیگابایت - پک گلوبال " },
+    { "path": "/", "image": "/images/col15/2.webp", "count": "۲", "label": "ست برس آرایشی کد 08 بسته 10 عددی"},
+    { "path": "/", "image": "/images/col15/3.webp", "count": "۳", "label": "دفتر مشق 100 برگ تیما مدل سوارکار مجموعه 6 عددی"},
+    { "path": "/", "image": "/images/col15/4.webp", "count": "۴", "label": "هدفون بلوتوثی کیو سی وای مدل Ailybuds Lite"},
+    { "path": "/", "image": "/images/col15/5.webp", "count": "۵", "label": "لامپ ال ای دی 20 وات لیتو مدل شارژی"},
+    { "path": "/", "image": "/images/col15/6.webp", "count": "۶", "label": "لاستیک خودرو کویر تایر مدل DOMINANT KB900 سایز 265/65/17 - تک حلقه "},
+    { "path": "/", "image": "/images/col15/7.webp", "count": "۷", "label": "کوله پشتی مدل EPS-4832 همراه با جامدادی"},
+    { "path": "/", "image": "/images/col15/8.webp", "count": "۸", "label": "فلش مموری کوئین تک مدل KNOB ROSE ظرفیت 64 گیگابایت"},
+    { "path": "/", "image": "/images/col15/9.webp", "count": "۹", "label": "اسباب بازی موس مدل مجیک میکسیز دیگ جادویی"},
+    { "path": "/", "image": "/images/col15/10.webp", "count": "۱۰", "label": "مایع دستشویی لوفانته مدل GINGER GARDEN حجم 3750 میلی لیتر"},
+    { "path": "/", "image": "/images/col15/11.webp", "count": "۱۱", "label": "خنک کننده پردازنده کولر مستر مدل T620s ARGB LGA1700"},
+    { "path": "/", "image": "/images/col15/12.webp", "count": "۱۲", "label": "قرص سیستین پلاس یوروویتال بسته 60 عددی"},
+    { "path": "/", "image": "/images/col15/13.webp", "count": "۱۳", "label": "ست تی شرت و شلوارک بچگانه سپیدپوش کد 1403101"},
+    { "path": "/", "image": "/images/col15/14.webp", "count": "۱۴", "label": "کفش تمرین سارزی مدل A.s.c.s_T.o.s-A.b_PaBpa"},
+    { "path": "/", "image": "/images/col15/15.webp", "count": "۱۵", "label": "زیر انداز سفری 4 نفره توریث مدل VS-800"},
+    { "path": "/", "image": "/images/col15/16.webp", "count": "۱۶", "label": "دستبند طلا 18 عیار زنانه مایا ماهک مدل MB1258 طرح استار"},
+    { "path": "/", "image": "/images/col15/17.webp", "count": "۱۷", "label": "هندزفری بلوتوثی پرووان مدل PHB3208"},
+    { "path": "/", "image": "/images/col15/18.webp", "count": "۱۸", "label": "شورت مردانه مدل 664-668 مجموعه 2 عددی"}
+  ],
+
+  "col16": [
+    { "path": "/", "image": "/images/col16/1.webp", "label": "چرخ و بخت", "svg": "/images/col16/1.svg" },
+    { "path": "/", "image": "/images/col16/2.webp", "label": "ماموریت ها", "svg": "/images/col16/2.svg"},
+    { "path": "/", "image": "/images/col16/3.webp", "label": "جایزه ها", "svg": "/images/col16/3.svg"}
   ]
 
 

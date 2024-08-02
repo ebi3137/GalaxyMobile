@@ -123,6 +123,7 @@ const Col2: React.FC = () => {
                 width={2880}
                 height={600}
                 priority
+                unoptimized
                 className="xl:h-96 lg:h-72 h-64 object-cover "
               />
             </Link>
