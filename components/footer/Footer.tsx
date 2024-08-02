@@ -49,6 +49,7 @@ const Footer = () => {
         <div className="flex justify-around py-10">
           {data.footer3.map((footer3) => (
             <Link
+            key={footer3.label}
               href={footer3.path}
               className="flex flex-col items-center gap-2"
             >

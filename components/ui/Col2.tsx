@@ -66,7 +66,7 @@ const Col2: React.FC = () => {
         currentRef.removeEventListener("scroll", handleManualScroll);
       }
     };
-  }, [handleScroll]);
+  }, [handleScroll, handleManualScroll]);
 
   return (
     <div

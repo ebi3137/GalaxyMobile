@@ -39,7 +39,7 @@ const Col4: React.FC = () => {
         currentRef.removeEventListener("scroll", handleScroll);
       };
     }
-  }, []);
+  }, [handleScroll]);
 
   return (
     <div className="container max-w-[1336px] mx-auto lg:px-4 2xl:px-0">
