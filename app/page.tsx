@@ -17,6 +17,7 @@ import Col13 from "@/components/ui/Col13";
 import Col14 from "@/components/ui/Col14";
 import Col15 from "@/components/ui/Col15";
 import Col16 from "@/components/ui/Col16";
+import Col17 from "@/components/ui/Col17";
 
 const Home = () => {
   return (
@@ -37,6 +38,7 @@ const Home = () => {
       <Col14/>
       <Col15/>
       <Col16/>
+      <Col17/>
     </main>
   );
 };

@@ -1538,13 +1538,25 @@
 
   "col6": {
     "col1": [
-      { "path": "/", "image": "/images/col6/col1/1.jpg", "label": "گوشی موبایل موتورولا مدل Edge 50 Pro دو سیم کارت ظرفیت 512 گیگابایت و رم 12 گیگابایت - به همراه کارت هدیه" },
-      { "path": "/", "image": "/images/col6/col1/2.jpg", "label": "گوشی موبایل موتورولا مدل Edge 50 Pro دو سیم کارت ظرفیت 512 گیگابایت و رم 12 گیگابایت" },
+      {
+        "path": "/",
+        "image": "/images/col6/col1/1.jpg",
+        "label": "گوشی موبایل موتورولا مدل Edge 50 Pro دو سیم کارت ظرفیت 512 گیگابایت و رم 12 گیگابایت - به همراه کارت هدیه"
+      },
+      {
+        "path": "/",
+        "image": "/images/col6/col1/2.jpg",
+        "label": "گوشی موبایل موتورولا مدل Edge 50 Pro دو سیم کارت ظرفیت 512 گیگابایت و رم 12 گیگابایت"
+      },
       { "path": "/", "image": "/images/col6/col1/3.jpg", "label": "eljfasl" },
       { "path": "/", "image": "/images/col6/col1/4.jpg", "label": "dsgf" }
     ],
     "col2": [
-      { "path": "/", "image": "/images/col6/col2/1.jpg", "label": "مو4tetبایل" },
+      {
+        "path": "/",
+        "image": "/images/col6/col2/1.jpg",
+        "label": "مو4tetبایل"
+      },
       { "path": "/", "image": "/images/col6/col2/2.jpg", "label": "et4" },
       { "path": "/", "image": "/images/col6/col2/3.jpg", "label": "ergt" },
       { "path": "/", "image": "/images/col6/col2/4.jpg", "label": "rg" }
@@ -1565,20 +1577,36 @@
 
   "col7": [
     { "path": "/", "image": "/images/col7/1.webp", "label": "پارتنرشیپ-گلرنگ" },
-    { "path": "/", "image": "/images/col7/2.webp", "label": "پارتنرشیپ-گلدیس"},
-    { "path": "/", "image": "/images/col7/3.webp", "label": "طلا"},
-    { "path": "/", "image": "/images/col7/4.webp", "label": "خودرو و موتورسیکلت"}
+    { "path": "/", "image": "/images/col7/2.webp", "label": "پارتنرشیپ-گلدیس" },
+    { "path": "/", "image": "/images/col7/3.webp", "label": "طلا" },
+    {
+      "path": "/",
+      "image": "/images/col7/4.webp",
+      "label": "خودرو و موتورسیکلت"
+    }
   ],
 
   "col8": {
     "col1": [
-      { "path": "/", "image": "/images/col8/col1/1.jpg", "label": "گوشی موبایل موتورولا مدل Edge 50 Pro دو سیم کارت ظرفیت 512 گیگابایت و رم 12 گیگابایت - به همراه کارت هدیه" },
-      { "path": "/", "image": "/images/col8/col1/2.jpg", "label": "گوشی موبایل موتورولا مدل Edge 50 Pro دو سیم کارت ظرفیت 512 گیگابایت و رم 12 گیگابایت" },
+      {
+        "path": "/",
+        "image": "/images/col8/col1/1.jpg",
+        "label": "گوشی موبایل موتورولا مدل Edge 50 Pro دو سیم کارت ظرفیت 512 گیگابایت و رم 12 گیگابایت - به همراه کارت هدیه"
+      },
+      {
+        "path": "/",
+        "image": "/images/col8/col1/2.jpg",
+        "label": "گوشی موبایل موتورولا مدل Edge 50 Pro دو سیم کارت ظرفیت 512 گیگابایت و رم 12 گیگابایت"
+      },
       { "path": "/", "image": "/images/col8/col1/3.jpg", "label": "eljfasl" },
       { "path": "/", "image": "/images/col8/col1/4.jpg", "label": "dsgf" }
     ],
     "col2": [
-      { "path": "/", "image": "/images/col8/col2/1.jpg", "label": "مو4tetبایل" },
+      {
+        "path": "/",
+        "image": "/images/col8/col2/1.jpg",
+        "label": "مو4tetبایل"
+      },
       { "path": "/", "image": "/images/col8/col2/2.jpg", "label": "et4" },
       { "path": "/", "image": "/images/col8/col2/3.jpg", "label": "ergt" },
       { "path": "/", "image": "/images/col8/col2/4.jpg", "label": "rg" }
@@ -1599,66 +1627,320 @@
 
   "col9": [
     { "path": "/", "image": "/images/col9/1.webp", "label": "پارتنرشیپ-گلرنگ" },
-    { "path": "/", "image": "/images/col9/2.webp", "label": "پارتنرشیپ-گلدیس"}
+    { "path": "/", "image": "/images/col9/2.webp", "label": "پارتنرشیپ-گلدیس" }
   ],
 
   "col10": [
-    { "path": "/", "image": "/images/col10/1.webp", "count": "۱", "label": "گوشی موبایل شیائومی مدل 14 Ultra 5G دو سیم کارت ظرفیت 512 گیگابایت و رم 16 گیگابایت - پک گلوبال " },
-    { "path": "/", "image": "/images/col10/2.webp", "count": "۲", "label": "ست برس آرایشی کد 08 بسته 10 عددی"},
-    { "path": "/", "image": "/images/col10/3.webp", "count": "۳", "label": "دفتر مشق 100 برگ تیما مدل سوارکار مجموعه 6 عددی"},
-    { "path": "/", "image": "/images/col10/4.webp", "count": "۴", "label": "هدفون بلوتوثی کیو سی وای مدل Ailybuds Lite"},
-    { "path": "/", "image": "/images/col10/5.webp", "count": "۵", "label": "لامپ ال ای دی 20 وات لیتو مدل شارژی"},
-    { "path": "/", "image": "/images/col10/6.webp", "count": "۶", "label": "لاستیک خودرو کویر تایر مدل DOMINANT KB900 سایز 265/65/17 - تک حلقه "},
-    { "path": "/", "image": "/images/col10/7.webp", "count": "۷", "label": "کوله پشتی مدل EPS-4832 همراه با جامدادی"},
-    { "path": "/", "image": "/images/col10/8.webp", "count": "۸", "label": "فلش مموری کوئین تک مدل KNOB ROSE ظرفیت 64 گیگابایت"},
-    { "path": "/", "image": "/images/col10/9.webp", "count": "۹", "label": "اسباب بازی موس مدل مجیک میکسیز دیگ جادویی"},
-    { "path": "/", "image": "/images/col10/10.webp", "count": "۱۰", "label": "مایع دستشویی لوفانته مدل GINGER GARDEN حجم 3750 میلی لیتر"},
-    { "path": "/", "image": "/images/col10/11.webp", "count": "۱۱", "label": "خنک کننده پردازنده کولر مستر مدل T620s ARGB LGA1700"},
-    { "path": "/", "image": "/images/col10/12.webp", "count": "۱۲", "label": "قرص سیستین پلاس یوروویتال بسته 60 عددی"},
-    { "path": "/", "image": "/images/col10/13.webp", "count": "۱۳", "label": "ست تی شرت و شلوارک بچگانه سپیدپوش کد 1403101"},
-    { "path": "/", "image": "/images/col10/14.webp", "count": "۱۴", "label": "کفش تمرین سارزی مدل A.s.c.s_T.o.s-A.b_PaBpa"},
-    { "path": "/", "image": "/images/col10/15.webp", "count": "۱۵", "label": "زیر انداز سفری 4 نفره توریث مدل VS-800"},
-    { "path": "/", "image": "/images/col10/16.webp", "count": "۱۶", "label": "دستبند طلا 18 عیار زنانه مایا ماهک مدل MB1258 طرح استار"},
-    { "path": "/", "image": "/images/col10/17.webp", "count": "۱۷", "label": "هندزفری بلوتوثی پرووان مدل PHB3208"},
-    { "path": "/", "image": "/images/col10/18.webp", "count": "۱۸", "label": "شورت مردانه مدل 664-668 مجموعه 2 عددی"}
+    {
+      "path": "/",
+      "image": "/images/col10/1.webp",
+      "count": "۱",
+      "label": "گوشی موبایل شیائومی مدل 14 Ultra 5G دو سیم کارت ظرفیت 512 گیگابایت و رم 16 گیگابایت - پک گلوبال "
+    },
+    {
+      "path": "/",
+      "image": "/images/col10/2.webp",
+      "count": "۲",
+      "label": "ست برس آرایشی کد 08 بسته 10 عددی"
+    },
+    {
+      "path": "/",
+      "image": "/images/col10/3.webp",
+      "count": "۳",
+      "label": "دفتر مشق 100 برگ تیما مدل سوارکار مجموعه 6 عددی"
+    },
+    {
+      "path": "/",
+      "image": "/images/col10/4.webp",
+      "count": "۴",
+      "label": "هدفون بلوتوثی کیو سی وای مدل Ailybuds Lite"
+    },
+    {
+      "path": "/",
+      "image": "/images/col10/5.webp",
+      "count": "۵",
+      "label": "لامپ ال ای دی 20 وات لیتو مدل شارژی"
+    },
+    {
+      "path": "/",
+      "image": "/images/col10/6.webp",
+      "count": "۶",
+      "label": "لاستیک خودرو کویر تایر مدل DOMINANT KB900 سایز 265/65/17 - تک حلقه "
+    },
+    {
+      "path": "/",
+      "image": "/images/col10/7.webp",
+      "count": "۷",
+      "label": "کوله پشتی مدل EPS-4832 همراه با جامدادی"
+    },
+    {
+      "path": "/",
+      "image": "/images/col10/8.webp",
+      "count": "۸",
+      "label": "فلش مموری کوئین تک مدل KNOB ROSE ظرفیت 64 گیگابایت"
+    },
+    {
+      "path": "/",
+      "image": "/images/col10/9.webp",
+      "count": "۹",
+      "label": "اسباب بازی موس مدل مجیک میکسیز دیگ جادویی"
+    },
+    {
+      "path": "/",
+      "image": "/images/col10/10.webp",
+      "count": "۱۰",
+      "label": "مایع دستشویی لوفانته مدل GINGER GARDEN حجم 3750 میلی لیتر"
+    },
+    {
+      "path": "/",
+      "image": "/images/col10/11.webp",
+      "count": "۱۱",
+      "label": "خنک کننده پردازنده کولر مستر مدل T620s ARGB LGA1700"
+    },
+    {
+      "path": "/",
+      "image": "/images/col10/12.webp",
+      "count": "۱۲",
+      "label": "قرص سیستین پلاس یوروویتال بسته 60 عددی"
+    },
+    {
+      "path": "/",
+      "image": "/images/col10/13.webp",
+      "count": "۱۳",
+      "label": "ست تی شرت و شلوارک بچگانه سپیدپوش کد 1403101"
+    },
+    {
+      "path": "/",
+      "image": "/images/col10/14.webp",
+      "count": "۱۴",
+      "label": "کفش تمرین سارزی مدل A.s.c.s_T.o.s-A.b_PaBpa"
+    },
+    {
+      "path": "/",
+      "image": "/images/col10/15.webp",
+      "count": "۱۵",
+      "label": "زیر انداز سفری 4 نفره توریث مدل VS-800"
+    },
+    {
+      "path": "/",
+      "image": "/images/col10/16.webp",
+      "count": "۱۶",
+      "label": "دستبند طلا 18 عیار زنانه مایا ماهک مدل MB1258 طرح استار"
+    },
+    {
+      "path": "/",
+      "image": "/images/col10/17.webp",
+      "count": "۱۷",
+      "label": "هندزفری بلوتوثی پرووان مدل PHB3208"
+    },
+    {
+      "path": "/",
+      "image": "/images/col10/18.webp",
+      "count": "۱۸",
+      "label": "شورت مردانه مدل 664-668 مجموعه 2 عددی"
+    }
   ],
 
   "col11": [
-    { "path": "/", "image": "/images/col11/3.webp", "off": "۳۵٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "},
-    { "path": "/", "image": "/images/col11/4.webp", "off": "۴۰٪", "label": "سوسيس کوکتل پنير 60 درصد گوشت قرمز مهيا پروتئين - 1 کيلوگرم" },
-    { "path": "/", "image": "/images/col11/5.webp", "off": "۵۰٪", "label": "پنیر خامه ای می ماس - 250 گرم" },
-    { "path": "/", "image": "/images/col11/6.webp", "off": "۴۵٪", "label": "ماست موسیر پر چرب یونانی می ماس مقدار 500 گرم" },
-    { "path": "/", "image": "/images/col11/7.webp", "off": "۳۵٪", "label": "کوکتل ممتاز 70 درصد گوشت قرمز هایزم بسته 8 عددی" },
-    { "path": "/", "image": "/images/col11/8.webp", "off": "۴۰٪", "label": "گرانولا بری نیچربایت - 380 گرم" }
+    {
+      "path": "/",
+      "image": "/images/col11/3.webp",
+      "off": "۳۵٪",
+      "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "
+    },
+    {
+      "path": "/",
+      "image": "/images/col11/4.webp",
+      "off": "۴۰٪",
+      "label": "سوسيس کوکتل پنير 60 درصد گوشت قرمز مهيا پروتئين - 1 کيلوگرم"
+    },
+    {
+      "path": "/",
+      "image": "/images/col11/5.webp",
+      "off": "۵۰٪",
+      "label": "پنیر خامه ای می ماس - 250 گرم"
+    },
+    {
+      "path": "/",
+      "image": "/images/col11/6.webp",
+      "off": "۴۵٪",
+      "label": "ماست موسیر پر چرب یونانی می ماس مقدار 500 گرم"
+    },
+    {
+      "path": "/",
+      "image": "/images/col11/7.webp",
+      "off": "۳۵٪",
+      "label": "کوکتل ممتاز 70 درصد گوشت قرمز هایزم بسته 8 عددی"
+    },
+    {
+      "path": "/",
+      "image": "/images/col11/8.webp",
+      "off": "۴۰٪",
+      "label": "گرانولا بری نیچربایت - 380 گرم"
+    }
   ],
 
   "col12": [
-    { "path": "/", "image": "/images/col12/1.webp", "oldPrice": "۳,۰۰۰,۰۰۰", "newPrice": "۴۹,۵۰۰" , "off": "۸۹٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "},
-    { "path": "/", "image": "/images/col12/2.webp", "oldPrice": "۳,۰۰۰,۰۰۰", "newPrice": "۵,۶۹۹,۰۰۰" , "off": "۳۵٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "},
-    { "path": "/", "image": "/images/col12/3.webp", "oldPrice": "۵,۱۵۹,۰۰۰", "newPrice": "۴۹,۵۰۰" , "off": "۳۵٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "},
-    { "path": "/", "image": "/images/col12/4.webp", "oldPrice": "۴,۱۹۰,۰۰۰", "newPrice": "۵,۸۹۹,۰۰۰" , "off": "۳۵٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "},
-    { "path": "/", "image": "/images/col12/5.webp", "oldPrice": "۲,۶۰۰,۰۰۰", "newPrice": "۵,۹۹۰,۰۰۰" , "off": "۳۵٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "},
-    { "path": "/", "image": "/images/col12/6.webp", "oldPrice": "۱,۲۰۰,۰۰۰", "newPrice": "۴,۱۹۰,۰۰۰" , "off": "۸۹٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "},
-    { "path": "/", "image": "/images/col12/7.webp", "oldPrice": "۵,۱۵۹,۰۰۰", "newPrice": "۳۷۸,۰۰۰" , "off": "۳۵٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "},
-    { "path": "/", "image": "/images/col12/8.webp", "oldPrice": "۵,۱۵۹,۰۰۰", "newPrice": "۳۷۵,۰۰۰" , "off": "۳۵٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "},
-    { "path": "/", "image": "/images/col12/9.webp", "oldPrice": "۱,۲۰۰,۰۰۰", "newPrice": "۳۲۳,۰۰۰" , "off": "۸۹٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "},
-    { "path": "/", "image": "/images/col12/10.webp", "oldPrice": "۲,۶۰۰,۰۰۰", "newPrice": "۱,۰۹۰,۰۰۰" , "off": "۳۵٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "},
-    { "path": "/", "image": "/images/col12/11.webp", "oldPrice": "۵,۱۵۹,۰۰۰", "newPrice": "۴۴,۰۰۰" , "off": "۳۵٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "},
-    { "path": "/", "image": "/images/col12/12.webp", "oldPrice": "۳,۰۰۰,۰۰۰", "newPrice": "۴۸۳,۸۰۰" , "off": "۳۵٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "},
-    { "path": "/", "image": "/images/col12/13.webp", "oldPrice": "۱,۲۰۰,۰۰۰", "newPrice": "۴,۱۹۰,۰۰۰" , "off": "۳۵٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "},
-    { "path": "/", "image": "/images/col12/14.webp", "oldPrice": "۴,۱۹۰,۰۰۰", "newPrice": "۴۹,۵۰۰" , "off": "۳۵٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "},
-    { "path": "/", "image": "/images/col12/15.webp", "oldPrice": "۲,۶۰۰,۰۰۰", "newPrice": "۳۲۳,۰۰۰" , "off": "۳۵٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "},
-    { "path": "/", "image": "/images/col12/16.webp", "oldPrice": "۵,۱۵۹,۰۰۰", "newPrice": "۵,۹۹۰,۰۰۰" , "off": "۸۹٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "},
-    { "path": "/", "image": "/images/col12/17.webp", "oldPrice": "۳,۰۰۰,۰۰۰", "newPrice": "۴۹,۵۰۰" , "off": "۳۵٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "},
-    { "path": "/", "image": "/images/col12/18.webp", "oldPrice": "۴,۱۹۰,۰۰۰", "newPrice": "۴,۱۹۰,۰۰۰" , "off": "۸۹٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "}
+    {
+      "path": "/",
+      "image": "/images/col12/1.webp",
+      "oldPrice": "۳,۰۰۰,۰۰۰",
+      "newPrice": "۴۹,۵۰۰",
+      "off": "۸۹٪",
+      "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "
+    },
+    {
+      "path": "/",
+      "image": "/images/col12/2.webp",
+      "oldPrice": "۳,۰۰۰,۰۰۰",
+      "newPrice": "۵,۶۹۹,۰۰۰",
+      "off": "۳۵٪",
+      "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "
+    },
+    {
+      "path": "/",
+      "image": "/images/col12/3.webp",
+      "oldPrice": "۵,۱۵۹,۰۰۰",
+      "newPrice": "۴۹,۵۰۰",
+      "off": "۳۵٪",
+      "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "
+    },
+    {
+      "path": "/",
+      "image": "/images/col12/4.webp",
+      "oldPrice": "۴,۱۹۰,۰۰۰",
+      "newPrice": "۵,۸۹۹,۰۰۰",
+      "off": "۳۵٪",
+      "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "
+    },
+    {
+      "path": "/",
+      "image": "/images/col12/5.webp",
+      "oldPrice": "۲,۶۰۰,۰۰۰",
+      "newPrice": "۵,۹۹۰,۰۰۰",
+      "off": "۳۵٪",
+      "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "
+    },
+    {
+      "path": "/",
+      "image": "/images/col12/6.webp",
+      "oldPrice": "۱,۲۰۰,۰۰۰",
+      "newPrice": "۴,۱۹۰,۰۰۰",
+      "off": "۸۹٪",
+      "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "
+    },
+    {
+      "path": "/",
+      "image": "/images/col12/7.webp",
+      "oldPrice": "۵,۱۵۹,۰۰۰",
+      "newPrice": "۳۷۸,۰۰۰",
+      "off": "۳۵٪",
+      "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "
+    },
+    {
+      "path": "/",
+      "image": "/images/col12/8.webp",
+      "oldPrice": "۵,۱۵۹,۰۰۰",
+      "newPrice": "۳۷۵,۰۰۰",
+      "off": "۳۵٪",
+      "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "
+    },
+    {
+      "path": "/",
+      "image": "/images/col12/9.webp",
+      "oldPrice": "۱,۲۰۰,۰۰۰",
+      "newPrice": "۳۲۳,۰۰۰",
+      "off": "۸۹٪",
+      "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "
+    },
+    {
+      "path": "/",
+      "image": "/images/col12/10.webp",
+      "oldPrice": "۲,۶۰۰,۰۰۰",
+      "newPrice": "۱,۰۹۰,۰۰۰",
+      "off": "۳۵٪",
+      "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "
+    },
+    {
+      "path": "/",
+      "image": "/images/col12/11.webp",
+      "oldPrice": "۵,۱۵۹,۰۰۰",
+      "newPrice": "۴۴,۰۰۰",
+      "off": "۳۵٪",
+      "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "
+    },
+    {
+      "path": "/",
+      "image": "/images/col12/12.webp",
+      "oldPrice": "۳,۰۰۰,۰۰۰",
+      "newPrice": "۴۸۳,۸۰۰",
+      "off": "۳۵٪",
+      "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "
+    },
+    {
+      "path": "/",
+      "image": "/images/col12/13.webp",
+      "oldPrice": "۱,۲۰۰,۰۰۰",
+      "newPrice": "۴,۱۹۰,۰۰۰",
+      "off": "۳۵٪",
+      "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "
+    },
+    {
+      "path": "/",
+      "image": "/images/col12/14.webp",
+      "oldPrice": "۴,۱۹۰,۰۰۰",
+      "newPrice": "۴۹,۵۰۰",
+      "off": "۳۵٪",
+      "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "
+    },
+    {
+      "path": "/",
+      "image": "/images/col12/15.webp",
+      "oldPrice": "۲,۶۰۰,۰۰۰",
+      "newPrice": "۳۲۳,۰۰۰",
+      "off": "۳۵٪",
+      "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "
+    },
+    {
+      "path": "/",
+      "image": "/images/col12/16.webp",
+      "oldPrice": "۵,۱۵۹,۰۰۰",
+      "newPrice": "۵,۹۹۰,۰۰۰",
+      "off": "۸۹٪",
+      "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "
+    },
+    {
+      "path": "/",
+      "image": "/images/col12/17.webp",
+      "oldPrice": "۳,۰۰۰,۰۰۰",
+      "newPrice": "۴۹,۵۰۰",
+      "off": "۳۵٪",
+      "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "
+    },
+    {
+      "path": "/",
+      "image": "/images/col12/18.webp",
+      "oldPrice": "۴,۱۹۰,۰۰۰",
+      "newPrice": "۴,۱۹۰,۰۰۰",
+      "off": "۸۹٪",
+      "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "
+    }
   ],
 
   "col13": [
     { "path": "/", "image": "/images/col13/1.png", "label": "پارتنhmپ-گلرنگ" },
-    { "path": "/", "image": "/images/col13/2.png", "label": "پارتنsdruf-گلرنگ" },
+    {
+      "path": "/",
+      "image": "/images/col13/2.png",
+      "label": "پارتنsdruf-گلرنگ"
+    },
     { "path": "/", "image": "/images/col13/3.png", "label": "پارتنsefگلرنگ" },
     { "path": "/", "image": "/images/col13/4.png", "label": "پارتنر34رنگ" },
-    { "path": "/", "image": "/images/col13/5.png", "label": "پارتنqw4tr-گلرنگ" },
+    {
+      "path": "/",
+      "image": "/images/col13/5.png",
+      "label": "پارتنqw4tr-گلرنگ"
+    },
     { "path": "/", "image": "/images/col13/6.png", "label": "پاwtr-گلرنگ" },
     { "path": "/", "image": "/images/col13/7.png", "label": "پارتنرشیپ-گلرنگ" },
     { "path": "/", "image": "/images/col13/9.png", "label": "پارertنگ" },
@@ -1678,35 +1960,161 @@
 
   "col14": [
     { "path": "/", "image": "/images/col14/1.gif", "label": "پارتنرشیپ-گلرنگ" },
-    { "path": "/", "image": "/images/col14/2.webp", "label": "پارتنرشیپ-گلدیس"}
+    { "path": "/", "image": "/images/col14/2.webp", "label": "پارتنرشیپ-گلدیس" }
   ],
 
   "col15": [
-    { "path": "/", "image": "/images/col15/1.webp", "count": "۱", "label": "گوشی موبایل شیائومی مدل 14 Ultra 5G دو سیم کارت ظرفیت 512 گیگابایت و رم 16 گیگابایت - پک گلوبال " },
-    { "path": "/", "image": "/images/col15/2.webp", "count": "۲", "label": "ست برس آرایشی کد 08 بسته 10 عددی"},
-    { "path": "/", "image": "/images/col15/3.webp", "count": "۳", "label": "دفتر مشق 100 برگ تیما مدل سوارکار مجموعه 6 عددی"},
-    { "path": "/", "image": "/images/col15/4.webp", "count": "۴", "label": "هدفون بلوتوثی کیو سی وای مدل Ailybuds Lite"},
-    { "path": "/", "image": "/images/col15/5.webp", "count": "۵", "label": "لامپ ال ای دی 20 وات لیتو مدل شارژی"},
-    { "path": "/", "image": "/images/col15/6.webp", "count": "۶", "label": "لاستیک خودرو کویر تایر مدل DOMINANT KB900 سایز 265/65/17 - تک حلقه "},
-    { "path": "/", "image": "/images/col15/7.webp", "count": "۷", "label": "کوله پشتی مدل EPS-4832 همراه با جامدادی"},
-    { "path": "/", "image": "/images/col15/8.webp", "count": "۸", "label": "فلش مموری کوئین تک مدل KNOB ROSE ظرفیت 64 گیگابایت"},
-    { "path": "/", "image": "/images/col15/9.webp", "count": "۹", "label": "اسباب بازی موس مدل مجیک میکسیز دیگ جادویی"},
-    { "path": "/", "image": "/images/col15/10.webp", "count": "۱۰", "label": "مایع دستشویی لوفانته مدل GINGER GARDEN حجم 3750 میلی لیتر"},
-    { "path": "/", "image": "/images/col15/11.webp", "count": "۱۱", "label": "خنک کننده پردازنده کولر مستر مدل T620s ARGB LGA1700"},
-    { "path": "/", "image": "/images/col15/12.webp", "count": "۱۲", "label": "قرص سیستین پلاس یوروویتال بسته 60 عددی"},
-    { "path": "/", "image": "/images/col15/13.webp", "count": "۱۳", "label": "ست تی شرت و شلوارک بچگانه سپیدپوش کد 1403101"},
-    { "path": "/", "image": "/images/col15/14.webp", "count": "۱۴", "label": "کفش تمرین سارزی مدل A.s.c.s_T.o.s-A.b_PaBpa"},
-    { "path": "/", "image": "/images/col15/15.webp", "count": "۱۵", "label": "زیر انداز سفری 4 نفره توریث مدل VS-800"},
-    { "path": "/", "image": "/images/col15/16.webp", "count": "۱۶", "label": "دستبند طلا 18 عیار زنانه مایا ماهک مدل MB1258 طرح استار"},
-    { "path": "/", "image": "/images/col15/17.webp", "count": "۱۷", "label": "هندزفری بلوتوثی پرووان مدل PHB3208"},
-    { "path": "/", "image": "/images/col15/18.webp", "count": "۱۸", "label": "شورت مردانه مدل 664-668 مجموعه 2 عددی"}
+    {
+      "path": "/",
+      "image": "/images/col15/1.webp",
+      "count": "۱",
+      "label": "گوشی موبایل شیائومی مدل 14 Ultra 5G دو سیم کارت ظرفیت 512 گیگابایت و رم 16 گیگابایت - پک گلوبال "
+    },
+    {
+      "path": "/",
+      "image": "/images/col15/2.webp",
+      "count": "۲",
+      "label": "ست برس آرایشی کد 08 بسته 10 عددی"
+    },
+    {
+      "path": "/",
+      "image": "/images/col15/3.webp",
+      "count": "۳",
+      "label": "دفتر مشق 100 برگ تیما مدل سوارکار مجموعه 6 عددی"
+    },
+    {
+      "path": "/",
+      "image": "/images/col15/4.webp",
+      "count": "۴",
+      "label": "هدفون بلوتوثی کیو سی وای مدل Ailybuds Lite"
+    },
+    {
+      "path": "/",
+      "image": "/images/col15/5.webp",
+      "count": "۵",
+      "label": "لامپ ال ای دی 20 وات لیتو مدل شارژی"
+    },
+    {
+      "path": "/",
+      "image": "/images/col15/6.webp",
+      "count": "۶",
+      "label": "لاستیک خودرو کویر تایر مدل DOMINANT KB900 سایز 265/65/17 - تک حلقه "
+    },
+    {
+      "path": "/",
+      "image": "/images/col15/7.webp",
+      "count": "۷",
+      "label": "کوله پشتی مدل EPS-4832 همراه با جامدادی"
+    },
+    {
+      "path": "/",
+      "image": "/images/col15/8.webp",
+      "count": "۸",
+      "label": "فلش مموری کوئین تک مدل KNOB ROSE ظرفیت 64 گیگابایت"
+    },
+    {
+      "path": "/",
+      "image": "/images/col15/9.webp",
+      "count": "۹",
+      "label": "اسباب بازی موس مدل مجیک میکسیز دیگ جادویی"
+    },
+    {
+      "path": "/",
+      "image": "/images/col15/10.webp",
+      "count": "۱۰",
+      "label": "مایع دستشویی لوفانته مدل GINGER GARDEN حجم 3750 میلی لیتر"
+    },
+    {
+      "path": "/",
+      "image": "/images/col15/11.webp",
+      "count": "۱۱",
+      "label": "خنک کننده پردازنده کولر مستر مدل T620s ARGB LGA1700"
+    },
+    {
+      "path": "/",
+      "image": "/images/col15/12.webp",
+      "count": "۱۲",
+      "label": "قرص سیستین پلاس یوروویتال بسته 60 عددی"
+    },
+    {
+      "path": "/",
+      "image": "/images/col15/13.webp",
+      "count": "۱۳",
+      "label": "ست تی شرت و شلوارک بچگانه سپیدپوش کد 1403101"
+    },
+    {
+      "path": "/",
+      "image": "/images/col15/14.webp",
+      "count": "۱۴",
+      "label": "کفش تمرین سارزی مدل A.s.c.s_T.o.s-A.b_PaBpa"
+    },
+    {
+      "path": "/",
+      "image": "/images/col15/15.webp",
+      "count": "۱۵",
+      "label": "زیر انداز سفری 4 نفره توریث مدل VS-800"
+    },
+    {
+      "path": "/",
+      "image": "/images/col15/16.webp",
+      "count": "۱۶",
+      "label": "دستبند طلا 18 عیار زنانه مایا ماهک مدل MB1258 طرح استار"
+    },
+    {
+      "path": "/",
+      "image": "/images/col15/17.webp",
+      "count": "۱۷",
+      "label": "هندزفری بلوتوثی پرووان مدل PHB3208"
+    },
+    {
+      "path": "/",
+      "image": "/images/col15/18.webp",
+      "count": "۱۸",
+      "label": "شورت مردانه مدل 664-668 مجموعه 2 عددی"
+    }
   ],
 
   "col16": [
-    { "path": "/", "image": "/images/col16/1.webp", "label": "چرخ و بخت", "svg": "/images/col16/1.svg" },
-    { "path": "/", "image": "/images/col16/2.webp", "label": "ماموریت ها", "svg": "/images/col16/2.svg"},
-    { "path": "/", "image": "/images/col16/3.webp", "label": "جایزه ها", "svg": "/images/col16/3.svg"}
+    {
+      "path": "/",
+      "image": "/images/col16/1.webp",
+      "label": "چرخ و بخت",
+      "svg": "/images/col16/1.svg"
+    },
+    {
+      "path": "/",
+      "image": "/images/col16/2.webp",
+      "label": "ماموریت ها",
+      "svg": "/images/col16/2.svg"
+    },
+    {
+      "path": "/",
+      "image": "/images/col16/3.webp",
+      "label": "جایزه ها",
+      "svg": "/images/col16/3.svg"
+    }
+  ],
+
+  "col17": [
+    {
+      "path": "/",
+      "image": "/images/col17/1.jpg",
+      "label": "۸ لحظه‌ی غافلگیرانه در افتتاحیه المپیک پاریس که خبرساز شد"
+    },
+    {
+      "path": "/",
+      "image": "/images/col17/2.jpg",
+      "label": "گلکسی زد فولد ۶ اسلیم چندان باریک نخواهد بود"
+    },
+    {
+      "path": "/",
+      "image": "/images/col17/3.jpg",
+      "label": "آرایش با پوست مستعد آکنه چه ملاحظاتی دارد؟"
+    },
+    {
+      "path": "/",
+      "image": "/images/col17/3.jpg",
+      "label": "آرایش با پوست مستعد آکنه چه ملاحظاتی دارد؟"
+    }
   ]
-
-
 }

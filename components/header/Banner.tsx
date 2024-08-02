@@ -13,6 +13,7 @@ const Banner: React.FC = () => {
             height={100}
             alt="Desktop Banner"
             priority
+            unoptimized
           />
           <Image
             className="block lg:hidden w-full h-9 object-cover"
@@ -21,6 +22,7 @@ const Banner: React.FC = () => {
             height={50}
             alt="Mobile Banner"
             priority
+            unoptimized
           />
       </Link>
     </div>
