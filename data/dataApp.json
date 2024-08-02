@@ -2116,5 +2116,33 @@
       "image": "/images/col17/3.jpg",
       "label": "آرایش با پوست مستعد آکنه چه ملاحظاتی دارد؟"
     }
+  ],
+
+  "footer3": [
+    {
+      "path": "/",
+      "image": "/images/footer/col3/express-delivery.svg",
+      "label": "اﻣﮑﺎن ﺗﺤﻮﯾﻞ اﮐﺴﭙﺮس"
+    },
+    {
+      "path": "/",
+      "image": "/images/footer/col3/cash-on-delivery.svg",
+      "label": "امکان پرداخت در محل"
+    },
+    {
+      "path": "/",
+      "image": "/images/footer/col3/support.svg",
+      "label": "۷ روز ﻫﻔﺘﻪ، ۲۴ ﺳﺎﻋﺘﻪ"
+    },
+    {
+      "path": "/",
+      "image": "/images/footer/col3/days-return.svg",
+      "label": "هفت روز ضمانت بازگشت کالا"
+    },
+    {
+      "path": "/",
+      "image": "/images/footer/col3/original-products.svg",
+      "label": "ﺿﻤﺎﻧﺖ اﺻﻞ ﺑﻮدن ﮐﺎﻟﺎ"
+    }
   ]
 }

@@ -5,6 +5,8 @@ import DesktopHeaderBottom from "./desktop/bottom-header/DesktopHeaderBottom";
 import DesktopHeaderTop from "./desktop/top-header/DesktopHeaderTop";
 import MobileHeaderApp from "./mobile/MobileHeaderApp";
 import MobileHeaderSearch from "./mobile/MobileHeaderSearch";
+import NavMobile from "./mobile/NavMobile";
+
 
 const Header: React.FC = () => {
   return (
@@ -13,6 +15,7 @@ const Header: React.FC = () => {
       <Banner />
       <MobileHeaderApp/>
       <MobileHeaderSearch/>
+      <NavMobile/>
       <DesktopHeaderTop/>
       <DesktopHeaderBottom/>
       </div>
