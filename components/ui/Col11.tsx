@@ -5,8 +5,8 @@ import data from "@/data/dataApp.json";
 
 const Col11 = () => {
   return (
-    <div className="container max-w-[1336px] mx-auto lg:px-4 2xl:px-0">
-      <div className="px-10 py-5 rounded-2xl flex flex-col xl:flex-row justify-between gap-5 bg-neutral-200 items-center mx-5 lg:mx-0 bg-[url('/images/col11/freshPattern.svg')] bg-no-repeat" >
+    <div className="container max-w-[1336px] mx-auto lg:px-4 2xl:px-0 px-5">
+      <div className="px-10 py-5 rounded-2xl flex flex-col xl:flex-row justify-between gap-5 bg-neutral-200 items-center lg:mx-0 bg-[url('/images/col11/freshPattern.svg')] bg-no-repeat" >
           <Link
             href="/"
             className="flex items-center gap-3 sm:gap-0 lg:gap-5 lg:flex-row flex-col"
@@ -44,7 +44,7 @@ const Col11 = () => {
                   height={58}
                   className=" rounded-full"
                 />
-                <div className="absolute bg-red-600 rounded-full px-2 flex py-0.5 bottom-0 right-0">
+                <div className="absolute bg-blue-700 rounded-full px-2 flex py-0.5 bottom-0 right-0">
                   <span className="text-white text-xs">{col11.off}</span>
                 </div>
               </Link>

@@ -155,6 +155,7 @@ const Col4: React.FC = () => {
             >
               {data.col4.map((col4) => (
                 <Link
+                  key={col4.label}
                   href={col4.path}
                   className="gap-2 flex flex-col items-center bg-white py-2 px-4 rounded-xl shadow-md hover:shadow-lg transition-shadow"
                 >

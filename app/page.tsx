@@ -12,6 +12,8 @@ import Col8 from "@/components/ui/Col8";
 import Col9 from "@/components/ui/Col9";
 import Col10 from "@/components/ui/Col10";
 import Col11 from "@/components/ui/Col11";
+import Col12 from "@/components/ui/Col12";
+import Col13 from "@/components/ui/Col13";
 
 const Home = () => {
   return (
@@ -27,6 +29,8 @@ const Home = () => {
       <Col9/>
       <Col10/>
       <Col11/>
+      <Col12/>
+      <Col13/>
     </main>
   );
 };

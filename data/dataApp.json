@@ -1630,5 +1630,51 @@
     { "path": "/", "image": "/images/col11/6.webp", "off": "۴۵٪", "label": "ماست موسیر پر چرب یونانی می ماس مقدار 500 گرم" },
     { "path": "/", "image": "/images/col11/7.webp", "off": "۳۵٪", "label": "کوکتل ممتاز 70 درصد گوشت قرمز هایزم بسته 8 عددی" },
     { "path": "/", "image": "/images/col11/8.webp", "off": "۴۰٪", "label": "گرانولا بری نیچربایت - 380 گرم" }
+  ],
+
+  "col12": [
+    { "path": "/", "image": "/images/col12/1.webp", "oldPrice": "۳,۰۰۰,۰۰۰", "newPrice": "۴۹,۵۰۰" , "off": "۸۹٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "},
+    { "path": "/", "image": "/images/col12/2.webp", "oldPrice": "۳,۰۰۰,۰۰۰", "newPrice": "۵,۶۹۹,۰۰۰" , "off": "۳۵٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "},
+    { "path": "/", "image": "/images/col12/3.webp", "oldPrice": "۵,۱۵۹,۰۰۰", "newPrice": "۴۹,۵۰۰" , "off": "۳۵٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "},
+    { "path": "/", "image": "/images/col12/4.webp", "oldPrice": "۴,۱۹۰,۰۰۰", "newPrice": "۵,۸۹۹,۰۰۰" , "off": "۳۵٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "},
+    { "path": "/", "image": "/images/col12/5.webp", "oldPrice": "۲,۶۰۰,۰۰۰", "newPrice": "۵,۹۹۰,۰۰۰" , "off": "۳۵٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "},
+    { "path": "/", "image": "/images/col12/6.webp", "oldPrice": "۱,۲۰۰,۰۰۰", "newPrice": "۴,۱۹۰,۰۰۰" , "off": "۸۹٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "},
+    { "path": "/", "image": "/images/col12/7.webp", "oldPrice": "۵,۱۵۹,۰۰۰", "newPrice": "۳۷۸,۰۰۰" , "off": "۳۵٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "},
+    { "path": "/", "image": "/images/col12/8.webp", "oldPrice": "۵,۱۵۹,۰۰۰", "newPrice": "۳۷۵,۰۰۰" , "off": "۳۵٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "},
+    { "path": "/", "image": "/images/col12/9.webp", "oldPrice": "۱,۲۰۰,۰۰۰", "newPrice": "۳۲۳,۰۰۰" , "off": "۸۹٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "},
+    { "path": "/", "image": "/images/col12/10.webp", "oldPrice": "۲,۶۰۰,۰۰۰", "newPrice": "۱,۰۹۰,۰۰۰" , "off": "۳۵٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "},
+    { "path": "/", "image": "/images/col12/11.webp", "oldPrice": "۵,۱۵۹,۰۰۰", "newPrice": "۴۴,۰۰۰" , "off": "۳۵٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "},
+    { "path": "/", "image": "/images/col12/12.webp", "oldPrice": "۳,۰۰۰,۰۰۰", "newPrice": "۴۸۳,۸۰۰" , "off": "۳۵٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "},
+    { "path": "/", "image": "/images/col12/13.webp", "oldPrice": "۱,۲۰۰,۰۰۰", "newPrice": "۴,۱۹۰,۰۰۰" , "off": "۳۵٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "},
+    { "path": "/", "image": "/images/col12/14.webp", "oldPrice": "۴,۱۹۰,۰۰۰", "newPrice": "۴۹,۵۰۰" , "off": "۳۵٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "},
+    { "path": "/", "image": "/images/col12/15.webp", "oldPrice": "۲,۶۰۰,۰۰۰", "newPrice": "۳۲۳,۰۰۰" , "off": "۳۵٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "},
+    { "path": "/", "image": "/images/col12/16.webp", "oldPrice": "۵,۱۵۹,۰۰۰", "newPrice": "۵,۹۹۰,۰۰۰" , "off": "۸۹٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "},
+    { "path": "/", "image": "/images/col12/17.webp", "oldPrice": "۳,۰۰۰,۰۰۰", "newPrice": "۴۹,۵۰۰" , "off": "۳۵٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "},
+    { "path": "/", "image": "/images/col12/18.webp", "oldPrice": "۴,۱۹۰,۰۰۰", "newPrice": "۴,۱۹۰,۰۰۰" , "off": "۸۹٪", "label": "تافی کاکائویی با روکش شیری دوبرز - 250 گرم "}
+  ],
+
+  "col13": [
+    { "path": "/", "image": "/images/col13/1.png", "label": "پارتنhmپ-گلرنگ" },
+    { "path": "/", "image": "/images/col13/2.png", "label": "پارتنsdruf-گلرنگ" },
+    { "path": "/", "image": "/images/col13/3.png", "label": "پارتنsefگلرنگ" },
+    { "path": "/", "image": "/images/col13/4.png", "label": "پارتنر34رنگ" },
+    { "path": "/", "image": "/images/col13/5.png", "label": "پارتنqw4tr-گلرنگ" },
+    { "path": "/", "image": "/images/col13/6.png", "label": "پاwtr-گلرنگ" },
+    { "path": "/", "image": "/images/col13/7.png", "label": "پارتنرشیپ-گلرنگ" },
+    { "path": "/", "image": "/images/col13/9.png", "label": "پارertنگ" },
+    { "path": "/", "image": "/images/col13/10.png", "label": "رنگ" },
+    { "path": "/", "image": "/images/col13/11.png", "label": "پارتنرشیپ-گلگ" },
+    { "path": "/", "image": "/images/col13/12.png", "label": "پارنگ" },
+    { "path": "/", "image": "/images/col13/13.jpg", "label": "jiol-گلرنگ" },
+    { "path": "/", "image": "/images/col13/14.png", "label": "پاioنگ" },
+    { "path": "/", "image": "/images/col13/15.jpg", "label": "sasre-گلرنگ" },
+    { "path": "/", "image": "/images/col13/16.jpg", "label": "پارتنرلرنگ" },
+    { "path": "/", "image": "/images/col13/17.jpg", "label": "پارتنر-گلرنگ" },
+    { "path": "/", "image": "/images/col13/18.png", "label": "پارتپ-گلرنگ" },
+    { "path": "/", "image": "/images/col13/19.png", "label": "stdrty" },
+    { "path": "/", "image": "/images/col13/20.jpg", "label": "se-گلرنگ" },
+    { "path": "/", "image": "/images/col13/22.png", "label": "khghiu-گلرنگ" }
   ]
+
+
 }

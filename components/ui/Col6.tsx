@@ -29,12 +29,12 @@ const Col6 = () => {
 
   return (
     <div className="container max-w-[1336px] mx-auto lg:px-4 2xl:px-0 ">
-      <div className="flex flex-col lg:flex-row items-center border border-solid border-neutral-200 rounded-2xl">
+      <div className="flex flex-col lg:flex-row items-center lg:border border-solid border-neutral-200 rounded-2xl">
         {categories.map((cat, index) => (
           <div
             key={index}
             className={`px-5 py-2 border-solid border-neutral-200 flex-col flex gap-2 ${
-              index === 0 ? "" : "border-r"
+              index === 0 ? "" : "lg:border-r"
             }`}
           >
             <div>

@@ -44,6 +44,10 @@ body, html {
   filter: brightness(0) saturate(100%) invert(34%) sepia(64%) saturate(546%) hue-rotate(90deg) brightness(99%) contrast(95%)
 }
 
+.filter-red-500 {
+  filter: brightness(0) saturate(100%) invert(33%) sepia(90%) saturate(1706%) hue-rotate(336deg) brightness(96%) contrast(96%)
+}
+
 
 
 
