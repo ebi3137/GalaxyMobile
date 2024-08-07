@@ -209,7 +209,7 @@ const Footer = () => {
           </button>
           <div className={`grid grid-cols-3 gap-px bg-neutral-200 ${showMore === "index4" ? "flex" : "hidden"}`}>
           {data.footer7.map((footer7)=>(
-            <Link href={footer7.label} className="font-black text-lg text-center  bg-white py-5">{footer7.label}</Link>
+            <Link key={footer7.label} href={footer7.label} className="font-black text-lg text-center  bg-white py-5">{footer7.label}</Link>
           ))}
         </div>
         </div>
