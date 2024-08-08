@@ -10,7 +10,7 @@ const Col5 = () => {
       <h3 className="mb-6 lg:mb-9 text-center text-xl/loose">
         خرید بر اساس دسته‌بندی
       </h3>
-      <div className="grid xl:grid-cols-8 lg:grid-cols-6 sm:grid-cols-5 grid-cols-3 gap-3 lg:space-x-8">
+      <div className="grid grid-flow-col lg:grid-rows-2 grid-rows-3 gap-5 overflow-x-auto scroll-hidden w-full  ">
         {data.col5.map((col5) => (
           <Link
             key={col5.label}

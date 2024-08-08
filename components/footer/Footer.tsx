@@ -95,13 +95,13 @@ const Footer = () => {
           ))}
         </div>
 
-        <div className="flex flex-col gap-3 divide-y lg:flex-row justify-around">
-          <div className="flex flex-col gap-3">
+        <div className="flex flex-col gap-3 divide-y lg:divide-none lg:flex-row justify-around">
+          <div className="flex flex-col gap-5">
             <button onClick={()=>toggleShowMore("index1")} className="flex justify-between items-center text-xs">
               <h3>با گلکسی موبایل</h3>
-              <Image src="/icons/arrowUp.svg" alt="Arrow" width={24} height={24} className={`brightness-50 ${showMore === "index1" ? "" : "rotate-180"}`}/>
+              <Image src="/icons/arrowUp.svg" alt="Arrow" width={24} height={24} className={`brightness-50 lg:hidden ${showMore === "index1" ? "" : "rotate-180"}`}/>
             </button>
-            <div className={` flex-col gap-5 text-neutral-500 text-xs ${showMore === "index1" ? "flex" : "hidden"}`}>
+            <div className={` flex-col gap-5 text-neutral-500 lg:flex text-xs ${showMore === "index1" ? "flex" : "hidden"}`}>
             <Link href="/" >
               اتاق خبر گلکسی موبایل
             </Link>
@@ -124,12 +124,12 @@ const Footer = () => {
           </div>
 
 
-          <div className="flex flex-col gap-5 pt-5">
+          <div className="flex flex-col gap-5 pt-5 lg:pt-0">
           <button onClick={()=>toggleShowMore("index2")} className="flex justify-between items-center text-xs">
             <h6>خدمات مشتریان</h6>
-            <Image src="/icons/arrowUp.svg" alt="Arrow" width={24} height={24} className={`brightness-50 ${showMore === "index1" ? "" : "rotate-180"}`}/>
+            <Image src="/icons/arrowUp.svg" alt="Arrow" width={24} height={24} className={`brightness-50 lg:hidden ${showMore === "index2" ? "" : "rotate-180"}`}/>
             </button>
-            <div className={` flex-col gap-5 text-neutral-500 text-xs ${showMore === "index2" ? "flex" : "hidden"}`}>
+            <div className={` flex-col gap-5 text-neutral-500 lg:flex text-xs ${showMore === "index2" ? "flex" : "hidden"}`}>
             <Link href="/">
               پاسخ به پرسش‌های متداول
             </Link>
@@ -152,12 +152,12 @@ const Footer = () => {
 
 
 
-          <div className="flex flex-col gap-5 pt-5">
-          <button onClick={()=>toggleShowMore("index3")} className="flex justify-between items-center text-xs">
+          <div className="flex flex-col gap-5 pt-5 lg:pt-0">
+          <button onClick={()=>toggleShowMore("index3")} className=" flex justify-between items-center text-xs">
             <h3>راهنمای خرید از گلکسی موبایل</h3>
-            <Image src="/icons/arrowUp.svg" alt="Arrow" width={24} height={24} className={`brightness-50 ${showMore === "index3" ? "" : "rotate-180"}`}/>
+            <Image src="/icons/arrowUp.svg" alt="Arrow" width={24} height={24} className={`brightness-50 lg:hidden ${showMore === "index3" ? "" : "rotate-180"}`}/>
             </button>
-            <div className={` flex-col gap-5 text-neutral-500 text-xs ${showMore === "index3" ? "flex" : "hidden"}`}>
+            <div className={` flex-col gap-5 text-neutral-500 lg:flex text-xs ${showMore === "index3" ? "flex" : "hidden"}`}>
             <Link href="/">
               نحوه ثبت سفارش
             </Link>
@@ -202,19 +202,22 @@ const Footer = () => {
             </div>
           </div>
         </div>
-        <div className="flex flex-col gap-5 pt-5 ">
+
+
+        <div className="lg:hidden flex flex-col gap-5 pt-5 ">
           <button onClick={()=>toggleShowMore("index4")} className="flex justify-between items-center text-xs">
             <h1>شرکای تجاری</h1>
             <Image src="/icons/arrowUp.svg" alt="Arrow" width={24} height={24} className={`brightness-50 ${showMore === "index4" ? "" : "rotate-180"}`}/>
           </button>
-          <div className={`grid grid-cols-3 gap-px bg-neutral-200 ${showMore === "index4" ? "flex" : "hidden"}`}>
+          <div className={`flex flex-wrap gap-px  ${showMore === "index4" ? "flex" : "hidden"}`}>
           {data.footer7.map((footer7)=>(
-            <Link key={footer7.label} href={footer7.label} className="font-black text-lg text-center  bg-white py-5">{footer7.label}</Link>
-          ))}
+            <Link key={footer7.label} href={footer7.path} className="grow px-5 py-5  items-center justify-center flex font-black  ">
+           <span className="shadow-md rounded-full px-2 ">{footer7.label}</span>
+          </Link>          ))}
         </div>
         </div>
         
-        <div className="hidden lg:flex bg-blue-950 px-5 justify-between py-3 rounded-lg">
+        <div className="hidden lg:flex bg-blue-950 px-5 justify-between py-3 rounded-lg mt-10">
           <div className="flex items-center gap-5">
             <Image
               src="/logo-shape-blue.png"
@@ -632,14 +635,12 @@ const Footer = () => {
           </p>
         </div>
       </div>
-      <div className=" hidden lg:flex bg-neutral-100 w-full flex-col mt-5">
-      <div className="flex justify-around">
+      <div className="hidden lg:flex flex-wrap bg-neutral-100 mt-3">
         {data.footer7.map((footer7)=>(
-          <Link key={footer7.label} href={footer7.path} className="grow px-4 py-5 border items-center justify-center flex text-lg font-black text-neutral-600 ">
+          <Link key={footer7.label} href={footer7.path} className="grow px-5 py-5 border items-center justify-center flex text-lg font-black text-neutral-600 ">
            <span>{footer7.label}</span>
           </Link>
         ))}
-      </div>
       </div>
       
       
